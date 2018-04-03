@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## General information
 
 |General information|
-|---|------------------------------------------------------------------------------------|
+|------|------------------------------------------------------------------------------------|
 |Name|Anni Norring|
 |Date of birth and place|26.7.1986, Espoo, Finland|
 |Address|Sinebrychoffinkatu 15 a 24, 00120 Helsinki, Finland|
@@ -38,23 +38,24 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###Doctoral studies
 
-**9/2016 - 5/2020, Doctor of Social Sciences, Economics, University of Helsinki, Faculty of Social Sciences.**
-
+**9/2016 - 5/2020**  
+**Doctor of Social Sciences in Economics**  
+University of Helsinki, Faculty of Social Sciences  
 In my thesis I study monetary policy and macroprudential policy in the presence of a global financial cycle. My first paper considers the effects of implementation of macroprudential policies on cross-border banking asset holdings.
 
 ### Master's and Bachelor's studies
 
-**9/2011 - 1/2015, Master of Social Sciences, Economics, University of Helsinki, Faculty of Social Sciences.**
+**9/2011 - 1/2015**  
+**Master of Social Sciences in Economics**  
+University of Helsinki, Faculty of Social Sciences.  
+Major subject economics, minor subject mathematics and statistics. Overall GPA 4/5.  
+Master's thesis topic: Cross-border investments, gravity equations and the double-hurdle model. Graded eximia cum laude approbatur (6/7).  
+Bachelor's thesis topic: Macroeconomic effects of venture capitalism. Graded 5/5.  
 
-Major subject economics, minor subject mathematics and statistics. Overall GPA 4/5.
 
-Master's thesis topic: Cross-border investments, gravity equations and the double-hurdle model. Graded eximia cum laude approbatur (6/7).
-
-Bachelor's thesis topic: Macroeconomic effects of venture capitalism. Graded 5/5.
-
-
-**8/2006 - (unfinised), Master of Science, Mathematics, University of Helsinki, Faculty of Science.**
-
+**8/2006 - **  
+**Master of Science in Mathematics**  
+University of Helsinki, Faculty of Science.  
 Major subject mathematics, minor subject economics and statistics. Overall GPA 4/5.
 
 ### Other education
