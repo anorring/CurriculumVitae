@@ -21,22 +21,17 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## General information
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+|General information|
+|---|------------------------------------------------------------------------------------|
+|Name|Anni Norring|
+|Date of birth and place|26.7.1986, Espoo, Finland|
+|Address|Sinebrychoffinkatu 15 a 24, 00120 Helsinki, Finland|
+|Telephone|+358407443401|
+|E-mail|anni.norring@helsinki.fi|
+|LinkedIn|[linkedin.com/in/anninorring](https://www.linkedin.com/in/anninorring/)|
+|Twitter|[twitter.com/AnniNorring](https://twitter.com/AnniNorring)|
+|GitHub|[github.com/anorring](https://github.com/anorring)|
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
