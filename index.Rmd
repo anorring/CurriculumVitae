@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## General information
 
-|General information|
+|Contact information|
 |------|------------------------------------------------------------------------------------|
 |Name|Anni Norring|
 |Date of birth and place|26.7.1986, Espoo, Finland|
@@ -34,6 +34,19 @@ knitr::opts_chunk$set(echo = TRUE)
 |Twitter|[twitter.com/AnniNorring](https://twitter.com/AnniNorring)|
 |GitHub|[github.com/anorring](https://github.com/anorring)|
 
+|Language proficiency|
+|------------------------|------------------------------------------------------------------------------------|
+|Finnish|native fluency, full professional proficiency|
+|English|fluent, full professional proficiency|
+|Swedish|full proficiency, very good reading and writing skills, conversational ability|
+|French|limited proficiecy, good reading and writing skills, basic conversational ability|
+|German|limited proficiecy, basic reading and writing skills, limited conversational ability|
+|Spanish|limited proficiecy, basic reading and writing skills, limited conversational ability|
+|Italian|limited proficiecy, basic reading and writing skills, limited conversational ability|
+|Latin|limited proficiecy, basic reading and writing skills|
+
+
+
 ## Education
 
 ###Doctoral studies
@@ -42,6 +55,21 @@ knitr::opts_chunk$set(echo = TRUE)
 **Doctor of Social Sciences in Economics**  
 University of Helsinki, Faculty of Social Sciences  
 In my thesis I study monetary policy and macroprudential policy in the presence of a global financial cycle. My first paper considers the effects of implementation of macroprudential policies on cross-border banking asset holdings.
+
+**Grants:**  
+3/2018 University of Helsinki travel grant  
+2/2018 Finnish Cultural Foundation three-year grant  
+12/2017 Yrjö Jahnsson Foundation grant (6 months)  
+6/2017 Oskar Öflunds Stiftelse grant (4 months)  
+12/2016 Yrjö Jahnsson Foundation grant (6 months)  
+5/2016 Yrjö Jahnsson Foundation grant for first year doctoral studies (12 months)  
+
+**Conferences, lectures and teaching:**  
+8/2018 Teacher, lecture course on international macroeconomics, University of Helsinki  
+3/2018 Lecture on the Chinese economy, University of the Third Age, Imatra, Finland  
+10-11/2017 Teaching assistant, master's course on macroeconomic theory, University of Helsinki  
+2/2017 Discussant in a session on the Chinese economy, Finnish Economic Association XXXIX Annual Meeting, Jyväskylä University, Finland  
+
 
 ### Master's and Bachelor's studies
 
@@ -66,23 +94,27 @@ Matriculation examination in 9 subjects with an overall degree of eximia cum lau
 
 ## Professional experience
 
-**5/2017 - 9/2017, 1/2018 - 3/2018, Economist**  
-Bank of Finland, Financial Stability and Statistics, Division of Macroprudential Policy  
+### Bank of Finland
+
+**1/2018 - 3/2018**  
+**5/2017 - 9/2017**  
+**Economist**  
+Bank of Finland, Financial Stability and Statistics, Division of Macroprudential Policy.  
 My work consisted of conducting my own research, writing analysis, giving presentations, preparing policy briefs and comments for various high-level meetings and participated in seminars and conferences. The topics I covered included e.g. the financial stability spillovers from China to the EU, the potential effects of a global financial cycle for macroprudential policy in Europe and implementing a shared deposit insurance system in the EU's banking union. 
 
-10/2014 - 2/2016
-Bank of Finland Institute for Economies in Transition (BOFIT)
-Economist, China
+**10/2014 - 2/2016**  
+**Economist, China**  
+Bank of Finland Institute for Economies in Transition (BOFIT).  
 My duties included monitoring of Chinese economy, writing for the BOFIT Weekly Report and preparing research reports and analysis on several topics. Communicating our view on the Chinese economy and networking with other China specialists was an important part of the job. I took part in various international seminars, workshops and conferences and organized two seminar series.
 
-1/2014 - 10/2014
-Bank of Finland, Financial Stability and Statistics, Division of Statistical analysis
-Economist intern
+**1/2014 - 10/2014**  
+**Economist intern**  
+Bank of Finland, Financial Stability and Statistics, Division of Statistical analysis.  
 My responsibilities included e.g. developing a new compiling process for insurance company and pension fund statistics, and publishing and presenting investment fund statistics. I also thought up and organized an internal seminar series during the summer 2014.
 
-4/2011 - 12/2013
-Bank of Finland, Financial Stability and Statistics, Division of Balance of Payments
-Economist intern
+**4/2011 - 12/2013**  
+**Economist intern**  
+Bank of Finland, Financial Stability and Statistics, Division of Balance of Payments.  
 My main contributions were various development projects, of which the most extensive concerned formulating an alternative compilation method for foreign debt in order to improve the quality of the balance of payments statistics. 
 
 
