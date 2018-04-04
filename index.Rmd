@@ -91,8 +91,7 @@ I am a doctoral student representative in the steering committee of the Doctoral
 
 ## Research proposal
 
-###Constrained by the global financial cycle?  
-###Monetary policy and macroprudential policy in the presence of large capital flows  
+###Constrained by the global financial cycle?  Monetary policy and macroprudential policy in the presence of large capital flows  
 
 **1. Introduction**  
 
@@ -141,6 +140,13 @@ There is growing evidence that the effects of macroprudential instruments occasi
 #### Hypotheses:
 
 
+#### Data:
+
+
+#### Methodology:
+
+
+#### Preliminary results:
 
 
 
@@ -248,3 +254,23 @@ Norring, Anni (2011). “Riskirahoituksen merkitys kansantaloudelle”. Bachelor
 
 
 ## Media appearances
+
+
+# Hobbies
+
+##Reading:
+I have been devouring books since I was a baby (quite literally, as my mother maintains). The family lore tells that I would not fall asleep without at least four books in my bed and that I learned to read when I was four because my parents simply could not read to me as much as I wanted. To this day, I never leave home without a book. Or two.
+
+When I started to school, my grandfather gave me a notebook where I could write down the books I read. I’ve managed to keep this habit up, meaning that I have data on my reading for most of my life:
+
+
+##Investing:
+In 8th grade, I unexpectedly won a competition my school organized on economics. As the first price I received a small share in a mutual fund. That share ended up being one my worst investments so far: out of pure nostalgia I kept it for 15 years and at last sold for a 8 % profit. I made 3,45€. Luckily, I’ve made also better investments after that.
+
+I like the thrill of catching a bargain and watching it’s value grow. Like the wreckage of an appartment on the far edge of Punavuori I was able to buy when I was 18 years old, which I completely renovated myself using something like 2000 euros and lived in for the years of seriously great afterparties. Since then, the most exclusive neighbourhood in Helsinki has been built right next to my old shady block, I've had only trustworthy tenants and getting a valuation for the place gives me a ridiculous amount of joy.  
+
+It doesn’t have to be only stocks and funds and apartments though. Some of my best investments (in terms of hypothetical profit, to be honest these are things I would not part with) have been art works or furniture. One of my favorites: a very big floor lamp, on its way to the dumpster, which I carried home to my tiny first apparment and which turned out to be a super rare and passionately collected industrial lamp designed by the great Finnish designer Yrjö Kukkapuro.
+
+##Ballet:
+I’ve danced classical ballet since I was a kid. These days I dance on average six hours a week. Pirouettes are my specialty: I can’t lift my leg past my head or jump very high, but I can spin. Unfortunately, I have no data to back my claim though. 
+
