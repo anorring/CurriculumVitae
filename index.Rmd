@@ -22,7 +22,12 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## General information
+# General information
+
+I am currently a doctoral student in economics at the University of Helsinki. Ten years from now I will be a PhD in economics specialized in macroeconomics with solid understanding of how economies work gained from working with a central bank or an international organization.
+
+I am interested in anything that is hard to understand. I firmly believe there is nothing more exciting than learning something new, be it in the field of economics, programming, dancing ballet or renovating. I like to learn new things by reading, listening and trying out: I am never caught without a book (or two) in my bag, I try to keep my language skills up by listening to i.e. a french science podcast while walking to work and I never say no, when something interesting comes my way.
+
 
 |Contact information|
 |------|------------------------------------------------------------------------------------|
@@ -34,6 +39,7 @@ knitr::opts_chunk$set(echo = TRUE)
 |LinkedIn|[linkedin.com/in/anninorring](https://www.linkedin.com/in/anninorring/)|
 |Twitter|[twitter.com/AnniNorring](https://twitter.com/AnniNorring)|
 |GitHub|[github.com/anorring](https://github.com/anorring)|
+|||
 
 |Language proficiency|
 |------------------------|------------------------------------------------------------------------------------|
@@ -45,19 +51,30 @@ knitr::opts_chunk$set(echo = TRUE)
 |Spanish|limited proficiecy, basic reading and writing skills, limited conversational ability|
 |Italian|limited proficiecy, basic reading and writing skills, limited conversational ability|
 |Latin|limited proficiecy, basic reading and writing skills|
+|Studies also in|Russian, Japanese, Chinese, Danish (I've always had this thing for languages)|
+|||
+
+|Technical skills|
+|------------------------|------------------------------------------------------------------------------------|
+|Proficient with|Microsoft Office suite, R, Stata, Git, Lateχ, Matlab, Macrobond|
+|Basic knowledge of|Dynare, Python, Tableau, Bloomberg, SPSS|
+|||
 
 
-
-## Education
-
-###Doctoral studies
+# What I do now: Doctoral studies
 
 **9/2016 - 5/2020**  
 **Doctor of Social Sciences in Economics**  
 University of Helsinki, Faculty of Social Sciences  
-In my thesis I study monetary policy and macroprudential policy in the presence of a global financial cycle. My first paper considers the effects of implementation of macroprudential policies on cross-border banking asset holdings.
 
-**Grants:**  
+In my thesis I study monetary policy and macroprudential policy in the presence of a global financial cycle. My first paper considers the effects of implementation of macroprudential policies on cross-border banking asset holdings.  
+
+In my course work I have tried to emphasize maintaining, updating and improving my methodological know-how. I have taken courses on e.g. open data science (R, open data sources, Git). This spring I'm updating my Python skills with a focus on applied data science. This summer I'm taking courses on Bayesian times series methods, different classes of VARs and Bayesian methods for DSGE models at the Barcelona GSE Macroeconometrics Summer School.  
+
+I am a doctoral student representative in the steering committee of the Doctoral Programme in Economics.  
+
+## Grants
+
 3/2018 University of Helsinki travel grant  
 2/2018 Finnish Cultural Foundation three-year grant  
 12/2017 Yrj&ouml; Jahnsson Foundation grant (6 months)  
@@ -65,14 +82,24 @@ In my thesis I study monetary policy and macroprudential policy in the presence 
 12/2016 Yrj&ouml; Jahnsson Foundation grant (6 months)  
 5/2016 Yrj&ouml; Jahnsson Foundation grant for first year doctoral studies (12 months)  
 
-**Conferences, lectures and teaching:**  
+## Conferences, lectures and teaching  
+
 8/2018 Teacher, lecture course on international macroeconomics, University of Helsinki  
 3/2018 Lecture on the Chinese economy, University of the Third Age, Imatra, Finland  
 10-11/2017 Teaching assistant, master's course on macroeconomic theory, University of Helsinki  
 2/2017 Discussant in a session on the Chinese economy, Finnish Economic Association XXXIX Annual Meeting, Jyv&auml;skyl&auml; University, Finland  
 
+## Papers
 
-### Master's and Bachelor's studies
+### First paper: Macroprudential tools, crossborder banking asset holdings and the gravity model
+
+Can the gravity model tell us something about the crossborder spillovers of macroprudential tools?
+
+
+
+# Education
+
+## Master's and Bachelor's studies
 
 **9/2011 - 1/2015**  
 **Master of Social Sciences in Economics**  
@@ -81,42 +108,96 @@ Major subject economics, minor subject mathematics and statistics. Overall GPA 4
 Master's thesis topic: Cross-border investments, gravity equations and the double-hurdle model. Graded eximia cum laude approbatur (6/7).  
 Bachelor's thesis topic: Macroeconomic effects of venture capitalism. Graded 5/5.  
 
+I graduated as a master of social sciences from the University of Helsinki in January 2015 with economics as my major subject. During my studies I took a special interest in macroeconomics and tried to emphasize this in the courses I selected. I graduated as a bachelor of social sciences in May 2012. I have minored in statistics (GPA 4.0) and have mathematics as a second major (GPA 4.0).  
+
+In my master’s thesis I proposed a previously untapped econometric method, the double-hurdle model, for estimating the determinants of cross-border investments. My goal was to write a thesis with actual scientific relevance and I was proud to achieve this. My thesis was graded Eximia cum laude approbatur, or 6/7.  
+
+In my bachelor's thesis I studied the possible macroeconomic effects of venture capitalism. I was able to publish an article based on my thesis at the Bank of Finland. My thesis was graded 5/5.  
 
 **8/2006 - **  
 **Master of Science in Mathematics**  
 University of Helsinki, Faculty of Science.   
-Major subject mathematics, minor subject economics and statistics. Overall GPA 4/5.
+Major subject mathematics, minor subject economics and statistics. Overall GPA 4/5.  
 
-### Other education
+I started as a mathematics student in the University of Helsinki, but my studies centered on economics at a fairly early stage. Studying mathematics has improved my analytic skills, which I have noticed to be endlessly valuable in working life.  
+
+## Other education
 
 **5/2006**  
 **It&auml;keskus Upper Secondary School, language program.**  
 Matriculation examination in 9 subjects with an overall degree of eximia cum laude approbatur.
 
-## Professional experience
+# Professional experience
 
-### Bank of Finland
+## Bank of Finland
 
 **1/2018 - 3/2018**  
+**Economist**  
+**Bank of Finland, Financial Stability and Statistics, Division of Macroprudential Policy**  
+I worked with issues related to macroprudential policy, financial stability and prudential regulation. My work consisted of writing analysis for internal reports and Bank of Finland publications, giving presentations, preparing policy briefs and comments for various high-level meetings and participating in seminars and conferences. I also conducted my own research on the effects of macroprudential instruments on bilateral cross-border bank asset holdings, related to my PhD-thesis. 
+
+
 **5/2017 - 9/2017**  
 **Economist**  
-Bank of Finland, Financial Stability and Statistics, Division of Macroprudential Policy.  
-My work consisted of conducting my own research, writing analysis, giving presentations, preparing policy briefs and comments for various high-level meetings and participated in seminars and conferences. The topics I covered included e.g. the financial stability spillovers from China to the EU, the potential effects of a global financial cycle for macroprudential policy in Europe and implementing a shared deposit insurance system in the EU's banking union. 
+**Bank of Finland, Financial Stability and Statistics, Division of Macroprudential Policy**  
+My work mainly consisted of conducting my own research on monetary and macroprudential policy in the presence of a global financial cycle. I also wrote analysis on e.g. the financial stability spillovers from China, prepared briefs for various high-level meeting and participated in seminars and conferences. Two of my analysis were published in the Bank of Finland blog (in Finnish). I was also asked to write a piece on China and financial stability spillovers in Kauppalehti, a Finnish business newspaper. An enjoyable side project was participating in a summer innovation competition, which I won with my proposal for developing the way the Bank of Finland and the Financial Supervisory Authority engage with the younger generations.  
 
 **10/2014 - 2/2016**  
 **Economist, China**  
-Bank of Finland Institute for Economies in Transition (BOFIT).  
-My duties included monitoring of Chinese economy, writing for the BOFIT Weekly Report and preparing research reports and analysis on several topics. Communicating our view on the Chinese economy and networking with other China specialists was an important part of the job. I took part in various international seminars, workshops and conferences and organized two seminar series.
+**Bank of Finland Institute for Economies in Transition (BOFIT)**  
+I was part of a team of three economists that follows and analyzes the Chinese economy at the Bank of Finland Institute for Economies in Transition or BOFIT. My responsibilities included e.g. writing weekly about the most important economic events in China to the BOFIT Weekly, which contains timely analysis and news about the Russian and Chinese economy. Besides the BOFIT Weekly, I wrote ad-hoc analysis for internal use and for publications such us our BOFIT Policy Brief -series and Bank of Finland blog. Communicating our view on the Chinese economy to the media and other interest groups as well as networking with other China experts was also an important part of the job, as was taking part in various seminars, conferences and workshops. My work was mainly policy work, but as academic work is also an integral part of BOFIT, I did eg. have the opportunity of being a discussant at Asian Economic Panel 2015 at the Lund University in Sweden. My comments were published in [MIT Press Journal Asian Economic Papers (Summer 2016, Vol. 15, No. 2 , Pages 134-135)](https://www.mitpressjournals.org/doi/full/10.1162/ASEP_a_00433).  
+
+In addition to my responsibilities at BOFIT, I organized two types of seminars. The first one is open to the whole personnel and held on average twice a month. In this series experts at Bank of Finland and Financial Supervision Authority give presentations on interesting and topical themes. The other is a summer seminar open for summer trainees and organized once a week during the summer months.  
+
+I tried to keep my ability to give a presentation about something else than economics alive by occasionally presenting the art collection of the Bank of Finland for different kinds of visitors. When talking about e.g. the Chinese economy, you can up to a degree anticipate the questions asked. With the guided art tours, you have no idea what the visitors may come up with.  
 
 **1/2014 - 10/2014**  
 **Economist intern**  
-Bank of Finland, Financial Stability and Statistics, Division of Statistical analysis.  
-My responsibilities included e.g. developing a new compiling process for insurance company and pension fund statistics, and publishing and presenting investment fund statistics. I also thought up and organized an internal seminar series during the summer 2014.
+**Bank of Finland, Financial Stability and Statistics, Division of Statistical analysis**  
+My responsibilities included e.g. developing a new compiling process for insurance company and pension fund statistics, and publishing and presenting investment fund statistics. I also mapped and drafted illustrations of all the different work processes of the statistics compiled and published by the statistics department of the Bank of Finland, as this had not been done before.  
+
+During summer 2014 I thought up and organized a seminar for summer trainees, in which economists and other experts of the Bank of Finland gave presentations on different topics related to their field of work. The seminar provided opportunities of discussion on a multitude of subjects and made the functions of the central bank more familiar for the trainees. The seminar was received well by trainees and presenters alike and will in the coming years be included in the schedule of summer trainees.
 
 **4/2011 - 12/2013**  
 **Economist intern**  
-Bank of Finland, Financial Stability and Statistics, Division of Balance of Payments.  
-My main contributions were various development projects, of which the most extensive concerned formulating an alternative compilation method for foreign debt in order to improve the quality of the balance of payments statistics. 
+**Bank of Finland, Financial Stability and Statistics, Division of Balance of Payments**  
+The most extensive project I did was a methodological project aimed at improving the quality of balance of payments statistics by reducing the balancing item of the statistical framework. On the account of this work I wrote an article "Maksutaseen tunnistamattomat ja virheelliset erät" (see publications, in Finnish with an abstract in English), which was published in the Bank of Finland BoF Online -series.  
+
+My other responsibilities included e.g. compiling and publishing the balance of payments statistics and streamlining the process of the monthly online publication. I also had the opportunity to write an article based on my bachelor's thesis and published in the Financial Market Report of Bank of Finland. 
+
+## Other
+
+**10/1998 - 3/2011**  
+**Financial administrative assistant, assistant**  
+**Moskito Group Oy, previously Varesvuo Partners Oy**  
+I gained experience in financial administration at Moskito Group Oy, which is the parent company of a concern consisting of media, advertising and TV-production companies. In Moskito Group I worked for several years as an accounting and office assistant after school and during school holidays.  
+
+I started in the company as a young girl (prior to getting paid for real since I was twelve, I was paid in cute stationary), helping out in the office during school holidays and gaining more responsibility as my experience increased. For the last two years there I was responsible for the management of purchase invoices for almost the entire concern.  
+
+The most valuable experience from Moskito was the opportunity to gain work experience at a very young age and the ability to organize my work very independently. 
 
 
+# Publications, writings and media
 
+## Publications for professinal communities
+
+[Norring, Anni (2016). “Comments by Anni Norring, on The Impact of CEO Long-term Equity-based Compensation Incentives on Economic Growth in Collectivist versus Individualist Countries”. MIT Press Journal Asian Economic Papers, Summer 2016, Vol. 15, No. 2, Pages 134-135.](https://www.mitpressjournals.org/doi/full/10.1162/ASEP_a_00433)
+
+Rautava, Jouko; Nuutilainen, Riikka; Norring, Anni; Korhonen, Iikka; Kallio, Jyrki (2015). ”BOFIT Kiina-tietoisku 2015”. BOFIT Policy Brief 11/2015.
+
+Norring, Anni (2015). ”Suomen ja Venäjän välisten suorien sijoitusten tilastot”. BOFIT Policy Brief 6/2015.
+
+## Publications for the general public, such as blogs
+
+[Norring, Anni (2018). "Mistä puhumme, kun puhumme makrovakauspolitiikasta?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2018/mista-puhumme-kun-puhumme-makrovakauspolitiikasta/)
+
+[Norring, Anni (2017). "Makrovakauspolitiikka globaalia finanssisykliä kesyttämässä". A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2017/makrovakauspolitiikka-globaalia-finanssisyklia-kesyttamassa/)
+
+## Theses
+
+Norring, Anni (2015). ” Cross-border Investments, Gravity Equations and the Double-hurdle Model”. Master’s thesis.
+
+Norring, Anni (2011). “Riskirahoituksen merkitys kansantaloudelle”. Bachelor’s thesis. 
+
+
+## Media appearances
