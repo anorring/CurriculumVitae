@@ -126,10 +126,21 @@ The theoretical paper will build a DSGE model with the model of Clancy and Merol
 
 ### First paper: Macroprudential tools, crossborder banking asset holdings and the gravity model
 
-Macroprudential policy 
+#### Motivation for the paper:
+
+Macroprudential policy is often looked upon as a means to return the independence of monetary policy, which can be reduced by various different reasons. However, there are still large gaps in knowledge on the effectiveness of macroprudential policies, even though the field is expanding rapidly. To gain fuller understanding on the effectiveness of macroprudential policies, one should not confine considerations to the ability of prudential tools to deliver the desired outcomes inside the country implementing the policies. After all, macroprudential policy cannot be implemented in a hermetic bubble. Instead, national macroprudential policy cannot be insulated from the global financial conditions and the some leakages and spillovers from the implemented policies are unavoidable.  
+
+There is growing evidence that the effects of macroprudential instruments occasionally spill over borders through international bank lending (see e.g. a meta study of Buch and Goldberg and the research cited therein, 2016, Agénor et al., 2017) and that this may reduce the effectiveness of national macroprudential policies (e.g. Reinhardt and Sowerbutts, 2015). In the presence of large, free and fast-moving capital flows and extensive cross-border activities of large international banks, the effects of macroprudential policies are not confined in the country that implements them. Cross-border spillovers of macroprudential policy may arise e.g. when banks exploit differences in the standards of national regulation by placing their activities in countries with the least imposing regulatory requirements. This regulatory arbitrage can to some extent be mitigated by mutual recognition, often referred to as reciprocity, of macroprudential measures by the national authorities of different countries. Even though the leakages have so far been found to be rather small, they may increase as national macroprudential policies become more widespread (Buch and Goldberg, 2016). 
+
+#### Reasearch questions:
+
+> Can the gravity model tell us something about the crossborder spillovers of macroprudential tools? 
+
+> What is the effect of certain often used macroprudential tools on bilateral, cross-border banking asset holdings?
+
+#### Hypotheses:
 
 
-Can the gravity model tell us something about the crossborder spillovers of macroprudential tools?
 
 
 
