@@ -9,7 +9,7 @@ output:
     theme: cosmo
     toc: true
     toc_float: true
-    toc_depth: 2
+    toc_depth: 3
     fig_caption: true
     fig_width: 6
     fig_height: 4
@@ -22,7 +22,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# General information
+# 1. General information
 
 I am currently a doctoral student in economics at the University of Helsinki. Ten years from now I will be a PhD in economics specialized in macroeconomics with solid understanding of how economies work gained from working with a central bank or an international organization.
 
@@ -57,11 +57,11 @@ I am interested in anything that is hard to understand. I firmly believe there i
 |Technical skills|
 |------------------------|------------------------------------------------------------------------------------|
 |Proficient with|Microsoft Office suite, R, Stata, Git, Lateχ, Matlab, Macrobond|
-|Basic knowledge of|Dynare, Python, Tableau, Bloomberg, SPSS|
+|Basic knowledge of|Tableau, Dynare, IRIS, Python, Bloomberg, SPSS|
 |||
 
 
-# What I do now: Doctoral studies
+# 2. What I do now: Doctoral studies
 
 **9/2016 - 5/2020**  
 **Doctor of Social Sciences in Economics**  
@@ -73,27 +73,27 @@ In my course work I have tried to emphasize maintaining, updating and improving 
 
 I am a doctoral student representative in the steering committee of the Doctoral Programme in Economics.  
 
-## Grants
+## 2.1 Grants
 
-3/2018 University of Helsinki travel grant  
-2/2018 Finnish Cultural Foundation three-year grant  
-12/2017 Yrj&ouml; Jahnsson Foundation grant (6 months)  
-6/2017 Oskar &Ouml;flunds Stiftelse grant (4 months)  
-12/2016 Yrj&ouml; Jahnsson Foundation grant (6 months)  
-5/2016 Yrj&ouml; Jahnsson Foundation grant for first year doctoral studies (12 months)  
+**3/2018** University of Helsinki travel grant  
+**2/2018** Finnish Cultural Foundation three-year grant  
+**12/2017** Yrj&ouml; Jahnsson Foundation grant (6 months)  
+**6/2017** Oskar &Ouml;flunds Stiftelse grant (4 months)  
+**12/2016** Yrj&ouml; Jahnsson Foundation grant (6 months)  
+**5/2016** Yrj&ouml; Jahnsson Foundation grant for first year doctoral studies (12 months)  
 
-## Conferences, lectures and teaching  
+## 2.2 Conferences, lectures and teaching  
 
-8/2018 Teacher, lecture course on international macroeconomics, University of Helsinki  
-3/2018 Lecture on the Chinese economy, University of the Third Age, Imatra, Finland  
-10-11/2017 Teaching assistant, master's course on macroeconomic theory, University of Helsinki  
-2/2017 Discussant in a session on the Chinese economy, Finnish Economic Association XXXIX Annual Meeting, Jyv&auml;skyl&auml; University, Finland  
+**8/2018** Teacher, lecture course on international macroeconomics, University of Helsinki  
+**3/2018** Lecture on the Chinese economy, University of the Third Age, Imatra, Finland  
+**10-11/2017** Teaching assistant, master's course on macroeconomic theory, University of Helsinki  
+**2/2017** Discussant in a session on the Chinese economy, Finnish Economic Association XXXIX Annual Meeting, Jyv&auml;skyl&auml; University, Finland  
 
-## Research proposal
+## 2.3 Research proposal for a doctoral thesis
 
-###Constrained by the global financial cycle?  Monetary policy and macroprudential policy in the presence of large capital flows  
+### Constrained by the global financial cycle?  Monetary policy and macroprudential policy in the presence of large capital flows  
 
-**1. Introduction**  
+### 2.3.1 Introduction  
 
 In international macroeconomics, the Mundell-Fleming trilemma has been a central feature since the seminal works of Mundell (1963) and Fleming (1962). The policy trilemma states that a country can conduct independent monetary policy only if it either allows exchange rate to float or restricts capital mobility. As of late, the policy trilemma has however been questioned by literature. Several studies have suggested that the trilemma is in fact a dilemma: irrespective of the exchange rate regime, monetary policy can not be fully independent if capital flows are completely free. Rey finds evidence that global factors largely drive the capital flows into and out of emerging markets (Rey 2015) and also advanced economies (Rey 2016). This phenomenon, the “Global Financial Cycle” is on its part largely driven by the monetary policy of the Federal Reserve of the US (Rey 2015, 2016). Also Davis and Presno (2017) find evidence of US monetary policy affecting the nominal interest rates of countries with floating currencies and open capital accounts. Rey argues that this is due to the importance of dollar for international financial markets and the dependence of global banks on dollar-denominated funding. Through this “international credit channel” the monetary conditions of US are transmitted abroad as international banks raise dollar funds and then transmit this dollar liquidity globally. McCauley et al. (2015) also point out that as the bulk of dollar debt is held abroad, it serves to transmit the US monetary policy immediately around the globe.  
 
@@ -106,14 +106,14 @@ Within a monetary union, the monetary and macroprudential policy mix takes a spe
 In the presence of free capital flows and extensive cross-border activities of large international banks, the effects of macroprudential policies are not confined in the country that implements them. Cross-border spillovers of macroprudential policy may arise e.g. when banks exploit differences in the standards of national regulation by placing their activities in countries with the least imposing regulatory requirements. This regulatory arbitrage can to some extent be mitigated by mutual recognition, often referred to as reciprocity, of macroprudential measures by the national authorities of different countries. Even though the leakages have so far been found to be rather small, they may increase as national macroprudential policies become more widespread (Buch and Goldberg, 2016). So far, there has been little thorough consideration of how the optimal mix of monetary and macroprudential policies changes, when the effectiveness of macroprudential policy is also compromised by cross-border capital flows. This is the gap in knowledge my doctoral thesis aims to fill.  
 
 
-**2. Research problem**  
+### 2.3.2 Research problem
 
 In my dissertation I study macroprudential policy in an open economy subject to free capital flows and the effect those flows have on the optimal policy set-up. Does the global financial cycle, manifested through free capital flows and regulatory arbitrage, tie the hands of macroprudential policy makers in a manner similar to the way the autonomy of monetary policy makers may be compromised? Specifically, I aim to find out what the leakages of macroprudential policy mean for the interplay of monetary policy and macroprudential policy. It is often postulated, that in an optimal policy mix, one of the most important tasks for macroprudential policy is to restore the independence of monetary policy. But what if the effectiveness of macroprudential policy itself is reduced by cross-border leakages? What would the optimal policy mix be in this case?  
 
 The thesis will include a survey, an empirical paper, a theoretical paper and a third paper on an extension to the model build in the theoretical paper. The purpose of the survey is to map the current state of understanding on macroprudential policy in an open economy with free capital mobility. The aim of the empirical paper is to investigate the interdependence of macroprudential policies and capital flows for several developed economies. The theoretical paper will build a model of optimal macroprudential policy in the presence of the global financial cycle. The third paper will extend the model by considering an environment of high leverage and low interest rates.  
 
 
-**3. Research methods and data**  
+### 2.3.3 Research methods and data  
 
 The empirical paper on the interdependence of macroprudential policies and capital flows will build on the gravity model of financial asset trade, first proposed by Portes and Rey (2005). The paper will concentrate on the effects of countercyclical capital regulation. By considering only one macroprudential tool the paper will be able to consider also the changes in the intensity of regulation, and not simply a dichotomous index of macroprudential actions. Data on macroprudential measures is obtained from the IMF survey on Global Macroprudential Policy Instruments (GMPI) and on bilateral cross-border banking flows from the BIS International Banking Statistics. Data on the control variables is obtained from different sources such as the World Bank Economic Indicators and a dataset compiled by CEPII which contains the variables most often used in estimating gravity models.  
 
@@ -121,38 +121,35 @@ The theoretical paper will build a DSGE model with the model of Clancy and Merol
 
 
 
-## Papers
+## 2.4 First paper: Macroprudential tools, crossborder banking asset holdings and the gravity model
 
-### First paper: Macroprudential tools, crossborder banking asset holdings and the gravity model
-
-#### Motivation for the paper:
+### 2.4.1 Motivation for the paper:
 
 Macroprudential policy is often looked upon as a means to return the independence of monetary policy, which can be reduced by various different reasons. However, there are still large gaps in knowledge on the effectiveness of macroprudential policies, even though the field is expanding rapidly. To gain fuller understanding on the effectiveness of macroprudential policies, one should not confine considerations to the ability of prudential tools to deliver the desired outcomes inside the country implementing the policies. After all, macroprudential policy cannot be implemented in a hermetic bubble. Instead, national macroprudential policy cannot be insulated from the global financial conditions and the some leakages and spillovers from the implemented policies are unavoidable.  
 
 There is growing evidence that the effects of macroprudential instruments occasionally spill over borders through international bank lending (see e.g. a meta study of Buch and Goldberg and the research cited therein, 2016, Agénor et al., 2017) and that this may reduce the effectiveness of national macroprudential policies (e.g. Reinhardt and Sowerbutts, 2015). In the presence of large, free and fast-moving capital flows and extensive cross-border activities of large international banks, the effects of macroprudential policies are not confined in the country that implements them. Cross-border spillovers of macroprudential policy may arise e.g. when banks exploit differences in the standards of national regulation by placing their activities in countries with the least imposing regulatory requirements. This regulatory arbitrage can to some extent be mitigated by mutual recognition, often referred to as reciprocity, of macroprudential measures by the national authorities of different countries. Even though the leakages have so far been found to be rather small, they may increase as national macroprudential policies become more widespread (Buch and Goldberg, 2016). 
 
-#### Reasearch questions:
+### 2.4.2 Reasearch questions and hypotheses
 
 > Can the gravity model tell us something about the crossborder spillovers of macroprudential tools? 
 
 > What is the effect of certain often used macroprudential tools on bilateral, cross-border banking asset holdings?
 
-#### Hypotheses:
-
-
-#### Data:
-
-
-#### Methodology:
-
-
-#### Preliminary results:
 
 
 
-# Education
+### 2.4.3 Data:
 
-## Master's and Bachelor's studies
+
+### 2.4.4 Methodology:
+
+
+### 2.4.5 Preliminary results:
+
+
+# 3. Education
+
+## 3.1 Master's and Bachelor's studies
 
 **9/2011 - 1/2015**  
 **Master of Social Sciences in Economics**  
@@ -174,15 +171,15 @@ Major subject mathematics, minor subject economics and statistics. Overall GPA 4
 
 I started as a mathematics student in the University of Helsinki, but my studies centered on economics at a fairly early stage. Studying mathematics has improved my analytic skills, which I have noticed to be endlessly valuable in working life.  
 
-## Other education
+## 3.2 Other education
 
 **5/2006**  
 **It&auml;keskus Upper Secondary School, language program.**  
 Matriculation examination in 9 subjects with an overall degree of eximia cum laude approbatur.
 
-# Professional experience
+# 4. Professional experience
 
-## Bank of Finland
+## 4.1 Bank of Finland
 
 **1/2018 - 3/2018**  
 **Economist**  
@@ -218,7 +215,7 @@ The most extensive project I did was a methodological project aimed at improving
 
 My other responsibilities included e.g. compiling and publishing the balance of payments statistics and streamlining the process of the monthly online publication. I also had the opportunity to write an article based on my bachelor's thesis and published in the Financial Market Report of Bank of Finland. 
 
-## Other
+## 4.2 Other
 
 **10/1998 - 3/2011**  
 **Financial administrative assistant, assistant**  
@@ -230,9 +227,9 @@ I started in the company as a young girl (prior to getting paid for real since I
 The most valuable experience from Moskito was the opportunity to gain work experience at a very young age and the ability to organize my work very independently. 
 
 
-# Publications, writings and media
+# 5. Publications, writings and media
 
-## Publications for professinal communities
+## 5.1 Publications for professinal communities
 
 [Norring, Anni (2016). “Comments by Anni Norring, on The Impact of CEO Long-term Equity-based Compensation Incentives on Economic Growth in Collectivist versus Individualist Countries”. MIT Press Journal Asian Economic Papers, Summer 2016, Vol. 15, No. 2, Pages 134-135.](https://www.mitpressjournals.org/doi/full/10.1162/ASEP_a_00433)
 
@@ -240,37 +237,37 @@ Rautava, Jouko; Nuutilainen, Riikka; Norring, Anni; Korhonen, Iikka; Kallio, Jyr
 
 Norring, Anni (2015). ”Suomen ja Venäjän välisten suorien sijoitusten tilastot”. BOFIT Policy Brief 6/2015.
 
-## Publications for the general public, such as blogs
+## 5.2 Publications for the general public, such as blogs
 
 [Norring, Anni (2018). "Mistä puhumme, kun puhumme makrovakauspolitiikasta?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2018/mista-puhumme-kun-puhumme-makrovakauspolitiikasta/)
 
 [Norring, Anni (2017). "Makrovakauspolitiikka globaalia finanssisykliä kesyttämässä". A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2017/makrovakauspolitiikka-globaalia-finanssisyklia-kesyttamassa/)
 
-## Theses
+## 5.3 Theses
 
 Norring, Anni (2015). ” Cross-border Investments, Gravity Equations and the Double-hurdle Model”. Master’s thesis.
 
 Norring, Anni (2011). “Riskirahoituksen merkitys kansantaloudelle”. Bachelor’s thesis. 
 
 
-## Media appearances
+## 5.4 Media appearances
 
 
-# Hobbies
+# 6. Hobbies
 
-##Reading:
+##6.1 Reading:
 I have been devouring books since I was a baby (quite literally, as my mother maintains). The family lore tells that I would not fall asleep without at least four books in my bed and that I learned to read when I was four because my parents simply could not read to me as much as I wanted. To this day, I never leave home without a book. Or two.
 
 When I started to school, my grandfather gave me a notebook where I could write down the books I read. I’ve managed to keep this habit up, meaning that I have data on my reading for most of my life:
 
 
-##Investing:
+## 6.2 Investing:
 In 8th grade, I unexpectedly won a competition my school organized on economics. As the first price I received a small share in a mutual fund. That share ended up being one my worst investments so far: out of pure nostalgia I kept it for 15 years and at last sold for a 8 % profit. I made 3,45€. Luckily, I’ve made also better investments after that.
 
 I like the thrill of catching a bargain and watching it’s value grow. Like the wreckage of an appartment on the far edge of Punavuori I was able to buy when I was 18 years old, which I completely renovated myself using something like 2000 euros and lived in for the years of seriously great afterparties. Since then, the most exclusive neighbourhood in Helsinki has been built right next to my old shady block, I've had only trustworthy tenants and getting a valuation for the place gives me a ridiculous amount of joy.  
 
 It doesn’t have to be only stocks and funds and apartments though. Some of my best investments (in terms of hypothetical profit, to be honest these are things I would not part with) have been art works or furniture. One of my favorites: a very big floor lamp, on its way to the dumpster, which I carried home to my tiny first apparment and which turned out to be a super rare and passionately collected industrial lamp designed by the great Finnish designer Yrjö Kukkapuro.
 
-##Ballet:
+## 6.3 Ballet:
 I’ve danced classical ballet since I was a kid. These days I dance on average six hours a week. Pirouettes are my specialty: I can’t lift my leg past my head or jump very high, but I can spin. Unfortunately, I have no data to back my claim though. 
 
