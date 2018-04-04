@@ -89,9 +89,45 @@ I am a doctoral student representative in the steering committee of the Doctoral
 10-11/2017 Teaching assistant, master's course on macroeconomic theory, University of Helsinki  
 2/2017 Discussant in a session on the Chinese economy, Finnish Economic Association XXXIX Annual Meeting, Jyv&auml;skyl&auml; University, Finland  
 
+## Research proposal
+
+###Constrained by the global financial cycle?  
+###Monetary policy and macroprudential policy in the presence of large capital flows  
+
+**1. Introduction**  
+
+In international macroeconomics, the Mundell-Fleming trilemma has been a central feature since the seminal works of Mundell (1963) and Fleming (1962). The policy trilemma states that a country can conduct independent monetary policy only if it either allows exchange rate to float or restricts capital mobility. As of late, the policy trilemma has however been questioned by literature. Several studies have suggested that the trilemma is in fact a dilemma: irrespective of the exchange rate regime, monetary policy can not be fully independent if capital flows are completely free. Rey finds evidence that global factors largely drive the capital flows into and out of emerging markets (Rey 2015) and also advanced economies (Rey 2016). This phenomenon, the “Global Financial Cycle” is on its part largely driven by the monetary policy of the Federal Reserve of the US (Rey 2015, 2016). Also Davis and Presno (2017) find evidence of US monetary policy affecting the nominal interest rates of countries with floating currencies and open capital accounts. Rey argues that this is due to the importance of dollar for international financial markets and the dependence of global banks on dollar-denominated funding. Through this “international credit channel” the monetary conditions of US are transmitted abroad as international banks raise dollar funds and then transmit this dollar liquidity globally. McCauley et al. (2015) also point out that as the bulk of dollar debt is held abroad, it serves to transmit the US monetary policy immediately around the globe.  
+
+To explain the dilemma, the studies put forward an explanation that hinges on price and credit rigidities. The independence of monetary policy is restricted, because even a fully flexible exchange rate is unable to balance the effect of large and fast-moving capital flows in the presence of rigidities. Monetary policy aimed at stabilizing prices is no longer optimal, and instead policy makers have to take into account the monetary policy of the central economy and try to influence capital flows with the domestic policy rate. This may lead to monetary policy ill suited for the domestic economy. The imported monetary conditions can be too tight or too lax and may lead to financial instability even in countries with floating exchange rate.  
+
+To restore the independence of monetary policy, the academic literature suggest controlling the capital account by imposing a tax on certain capital flows. Capital controls are however usually considered more a crisis management tool than a macroprudential instrument aimed at preventing financial instability, at least in the advanced economies. The task of securing independent monetary policy thus falls on more conventional macroprudential policies, which have been shown to be able to replicate the effects of capital controls (see e.g. Korinek and Sandri, 2014). Rey (2015) emphasizes countercyclical policies aimed at credit and leverage growth (such as the countercyclical capital buffers of Basel III), and structural policies aimed at leverage of all financial institutions. This reasoning lends further importance for the developing and implementing of macroprudential tools that has been taken up with rigour after the global financial crisis.   
+
+Within a monetary union, the monetary and macroprudential policy mix takes a special twist, as pointed out by Galati and Moessner (2013): when monetary policy is not controlled on the national level, national macroprudential policies can be used to affect domestic conditions, e.g. the growth of credit. Indeed, this is one of the raisons d’être for national macroprudential policies in a monetary union with shared monetary policy, as shown by Clancy and Merola (2017). There is, however, a catch, when this strand of literature is considered parallel to a growing literature on the cross-border leakage of macroprudential policies and regulatory arbitrage. There is growing evidence that the effects of macroprudential instruments occasionally spill over borders through international bank lending (see e.g. a meta study of Buch and Goldberg and the research cited therein, 2016) and that this may reduce the effectiveness of national macroprudential policies (e.g. Reinhardt and Sowerbutts, 2015).  
+
+In the presence of free capital flows and extensive cross-border activities of large international banks, the effects of macroprudential policies are not confined in the country that implements them. Cross-border spillovers of macroprudential policy may arise e.g. when banks exploit differences in the standards of national regulation by placing their activities in countries with the least imposing regulatory requirements. This regulatory arbitrage can to some extent be mitigated by mutual recognition, often referred to as reciprocity, of macroprudential measures by the national authorities of different countries. Even though the leakages have so far been found to be rather small, they may increase as national macroprudential policies become more widespread (Buch and Goldberg, 2016). So far, there has been little thorough consideration of how the optimal mix of monetary and macroprudential policies changes, when the effectiveness of macroprudential policy is also compromised by cross-border capital flows. This is the gap in knowledge my doctoral thesis aims to fill.  
+
+
+**2. Research problem**  
+
+In my dissertation I study macroprudential policy in an open economy subject to free capital flows and the effect those flows have on the optimal policy set-up. Does the global financial cycle, manifested through free capital flows and regulatory arbitrage, tie the hands of macroprudential policy makers in a manner similar to the way the autonomy of monetary policy makers may be compromised? Specifically, I aim to find out what the leakages of macroprudential policy mean for the interplay of monetary policy and macroprudential policy. It is often postulated, that in an optimal policy mix, one of the most important tasks for macroprudential policy is to restore the independence of monetary policy. But what if the effectiveness of macroprudential policy itself is reduced by cross-border leakages? What would the optimal policy mix be in this case?  
+
+The thesis will include a survey, an empirical paper, a theoretical paper and a third paper on an extension to the model build in the theoretical paper. The purpose of the survey is to map the current state of understanding on macroprudential policy in an open economy with free capital mobility. The aim of the empirical paper is to investigate the interdependence of macroprudential policies and capital flows for several developed economies. The theoretical paper will build a model of optimal macroprudential policy in the presence of the global financial cycle. The third paper will extend the model by considering an environment of high leverage and low interest rates.  
+
+
+**3. Research methods and data**  
+
+The empirical paper on the interdependence of macroprudential policies and capital flows will build on the gravity model of financial asset trade, first proposed by Portes and Rey (2005). The paper will concentrate on the effects of countercyclical capital regulation. By considering only one macroprudential tool the paper will be able to consider also the changes in the intensity of regulation, and not simply a dichotomous index of macroprudential actions. Data on macroprudential measures is obtained from the IMF survey on Global Macroprudential Policy Instruments (GMPI) and on bilateral cross-border banking flows from the BIS International Banking Statistics. Data on the control variables is obtained from different sources such as the World Bank Economic Indicators and a dataset compiled by CEPII which contains the variables most often used in estimating gravity models.  
+
+The theoretical paper will build a DSGE model with the model of Clancy and Merola (2017), assessing the effectiveness of countercyclical capital regulation in small open economies, as a starting point. The paper will develop this model further by considering also the effect of capital flows on macroprudential regulation. The model will be calibrated using data for a small open advanced economy with a flexible exchange rate to validate the model’s ability to reproduce the relevant stylized facts.  
+
+
+
 ## Papers
 
 ### First paper: Macroprudential tools, crossborder banking asset holdings and the gravity model
+
+Macroprudential policy 
+
 
 Can the gravity model tell us something about the crossborder spillovers of macroprudential tools?
 
