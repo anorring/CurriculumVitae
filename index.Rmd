@@ -14,6 +14,7 @@ output:
     fig_width: 6
     fig_height: 4
     code_folding: hide
+ 
 ---
 
 
@@ -59,16 +60,16 @@ In my thesis I study monetary policy and macroprudential policy in the presence 
 **Grants:**  
 3/2018 University of Helsinki travel grant  
 2/2018 Finnish Cultural Foundation three-year grant  
-12/2017 Yrjö Jahnsson Foundation grant (6 months)  
-6/2017 Oskar Öflunds Stiftelse grant (4 months)  
-12/2016 Yrjö Jahnsson Foundation grant (6 months)  
-5/2016 Yrjö Jahnsson Foundation grant for first year doctoral studies (12 months)  
+12/2017 Yrjo Jahnsson Foundation grant (6 months)  
+6/2017 Oskar Oflunds Stiftelse grant (4 months)  
+12/2016 Yrjo Jahnsson Foundation grant (6 months)  
+5/2016 Yrjo Jahnsson Foundation grant for first year doctoral studies (12 months)  
 
 **Conferences, lectures and teaching:**  
 8/2018 Teacher, lecture course on international macroeconomics, University of Helsinki  
 3/2018 Lecture on the Chinese economy, University of the Third Age, Imatra, Finland  
 10-11/2017 Teaching assistant, master's course on macroeconomic theory, University of Helsinki  
-2/2017 Discussant in a session on the Chinese economy, Finnish Economic Association XXXIX Annual Meeting, Jyväskylä University, Finland  
+2/2017 Discussant in a session on the Chinese economy, Finnish Economic Association XXXIX Annual Meeting, Jyvaskyla University, Finland  
 
 
 ### Master's and Bachelor's studies
@@ -89,7 +90,7 @@ Major subject mathematics, minor subject economics and statistics. Overall GPA 4
 ### Other education
 
 **5/2006**  
-**Itäkeskus Upper Secondary School, language program.**  
+**It?keskus Upper Secondary School, language program.**  
 Matriculation examination in 9 subjects with an overall degree of eximia cum laude approbatur.
 
 ## Professional experience
