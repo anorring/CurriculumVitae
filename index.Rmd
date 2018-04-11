@@ -121,9 +121,11 @@ The theoretical paper will build a DSGE model with the model of Clancy and Merol
 
 
 
-## 2.4 First paper: Macroprudential policy, cross-border banking asset holdings and the gravity equation
+## 2.4 Paper: Macroprudential policy, cross-border banking asset holdings and the gravity equation
 
-In this paper I study the effect of certain often used macroprudential policy tools on bilateral, cross-border banking asset holdings. I consider a gravity equation of trade in financial assets, where values for an index on the usage of prudential tools in both the country or origin and the destination country enter as frictional variables. The model is estimated using a two-stage double hurdle model to account for the large share of zero observations in the dependent variable. 
+In this paper I study the effect of certain often used macroprudential policy tools on bilateral, cross-border banking asset holdings. I consider a gravity equation of trade in financial assets, where values for an index on the usage of prudential tools in both the country or origin and the destination country enter as frictional variables. The model is estimated using a two-stage double hurdle model to account for the large share of zero observations in the dependent variable.  
+
+My preliminary results show that the variables of interest, i.e. the ones measuring the usage of macroprudential policy, have a statistically significant effect on bilateral bank asset holdings in all considered specifications. The effects are also broadly in line with the formulated hypotheses. These results are however preliminary and still require further robustness checks.  
 
 For more on this paper, please refer to my [GitHub repository](https://github.com/anorring/PHDthesis_1st_paper). 
 
