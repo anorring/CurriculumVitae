@@ -56,8 +56,8 @@ I am interested in anything that is hard to understand. I firmly believe there i
 
 |Technical skills|
 |------------------------|------------------------------------------------------------------------------------|
-|Proficient with|Microsoft Office suite, R, Stata, Git, Lateχ, Matlab, Macrobond|
-|Basic knowledge of|Tableau, Dynare, IRIS, Python, Bloomberg, SPSS|
+|Proficient with|Microsoft Office suite, R, Stata, Git, Lateχ, Matlab, Dynare, Macrobond, CEIC|
+|Basic knowledge of|Tableau, IRIS, Python, Bloomberg, SPSS|
 |||
 
 
@@ -67,11 +67,11 @@ I am interested in anything that is hard to understand. I firmly believe there i
 **Doctor of Social Sciences in Economics**  
 University of Helsinki, Faculty of Social Sciences  
 
-In my thesis I study monetary policy and macroprudential policy in the presence of a global financial cycle. My first paper considers the effects of implementation of macroprudential policies on cross-border banking asset holdings.  
+In my thesis I study monetary policy and macroprudential policy in the presence of a global financial cycle. My first paper considers the effects of implementation of macroprudential policies on cross-border banking asset holdings.
 
-In my course work I have tried to emphasize maintaining, updating and improving my methodological know-how. I have taken courses on e.g. open data science (R, open data sources, Git). This spring I'm updating my Python skills with a focus on applied data science. This summer I'm taking courses on Bayesian times series methods, different classes of VARs and Bayesian methods for DSGE models at the Barcelona GSE Macroeconometrics Summer School.  
+In my course work I have tried to emphasize maintaining, updating and improving my methodological know-how. I have taken courses on e.g. open data science (R, open data sources, Git). This summer I'm updating my knowledge on DSGE models, Bayesian times series methods, different classes of VARs and Bayesian methods for DSGE models at the Dynare Summer School and the Barcelona GSE Macroeconometrics Summer School. 
 
-I am a doctoral student representative in the steering committee of the Doctoral Programme in Economics.  
+I am a doctoral student representative in the steering committee of the Doctoral Programme in Economics.
 
 ## 2.1 Grants
 
@@ -84,9 +84,16 @@ I am a doctoral student representative in the steering committee of the Doctoral
 
 ## 2.2 Conferences, lectures and teaching  
 
-**8/2018** Teacher, lecture course on international macroeconomics, University of Helsinki  
+**8/2018** Teacher, lecture course on international macroeconomics, University of Helsinki
+
+**5/2018** Presenting "Macroprudential policy cross-border spillovers and international banking - Any use for the gravity model?", HECER Research Workshop on Macroeconomics
+
+**5/2018** Presenting "Macroprudential policy cross-border spillovers and international banking - Any use for the gravity model?", Bank of Finland internal seminar
+
 **3/2018** Lecture on the Chinese economy, University of the Third Age, Imatra, Finland  
+
 **10-11/2017** Teaching assistant, master's course on macroeconomic theory, University of Helsinki  
+
 **2/2017** Discussant in a session on the Chinese economy, Finnish Economic Association XXXIX Annual Meeting, Jyv&auml;skyl&auml; University, Finland  
 
 ## 2.3 Research proposal for a doctoral thesis
@@ -121,7 +128,7 @@ The theoretical paper will build a DSGE model with the model of Clancy and Merol
 
 
 
-## 2.4 Paper: Macroprudential policy, cross-border banking asset holdings and the gravity equation
+## 2.4 Paper: "Macroprudential policy cross-border spillovers and international banking - Any use for the gravity model?"
 
 In this paper I study the effect of certain often used macroprudential policy tools on bilateral, cross-border banking asset holdings. I consider a gravity equation of trade in financial assets, where values for an index on the usage of prudential tools in both the country or origin and the destination country enter as frictional variables. The model is estimated using a two-stage double hurdle model to account for the large share of zero observations in the dependent variable.  
 
@@ -168,13 +175,28 @@ Matriculation examination in 9 subjects with an overall degree of eximia cum lau
 **Bank of Finland, Financial Stability and Statistics, Division of Macroprudential Policy**  
 I worked with issues related to macroprudential policy, financial stability and prudential regulation. My work consisted of writing analysis for internal reports and Bank of Finland publications, giving presentations, preparing policy briefs and comments for various high-level meetings and participating in seminars and conferences. I also conducted my own research on the effects of macroprudential instruments on bilateral cross-border bank asset holdings, related to my PhD-thesis. 
 
-[Publications from this visit: a blog post, an analysis and an article for the Bank of Finland Bulletin -site (in Finnish, the latter two are forthcoming).](https://www.eurojatalous.fi/fi/kirjoittaja/anni-norring/)
+Publications from this visit: a blog post, an analysis and an article for the Bank of Finland Bulletin -site:
 
+[Kauko, Karlo; Norring, Anni (2018). "Instruments designed to mitigate indebtedness" A Bank of Finland Bulletin article.](https://www.bofbulletin.fi/en/2018/2/instruments-designed-to-mitigate-indebtedness/)
+
+[Kauko, Karlo; Norring, Anni (2018). "Velkaantumista rajoittavat välineet" A Bank of Finland Bulletin article, in Finnish.](https://www.eurojatalous.fi/fi/2018/2/velkaantumista-rajoittavat-valineet/)
+
+[Norring, Anni (2018). "Makrovakauspolitiikka vakiintuu Euroopan unionissa" A Bank of Finland Bulletin analysis article, in Finnish.](https://www.eurojatalous.fi/fi/2018/artikkelit/makrovakauspolitiikka-vakiintuu-euroopan-unionissa/)
+
+[Norring, Anni (2018). "Mistä puhumme, kun puhumme makrovakauspolitiikasta?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2018/mista-puhumme-kun-puhumme-makrovakauspolitiikasta/)
 
 **5/2017 - 9/2017**  
 **Economist**  
 **Bank of Finland, Financial Stability and Statistics, Division of Macroprudential Policy**  
-My work mainly consisted of conducting my own research on monetary and macroprudential policy in the presence of a global financial cycle. I also wrote analysis on e.g. the financial stability spillovers from China, prepared briefs for various high-level meeting and participated in seminars and conferences. [Two of my analysis were published in the Bank of Finland blog (in Finnish)](https://www.eurojatalous.fi/fi/kirjoittaja/anni-norring/). I was also asked to write a piece on China and financial stability spillovers in Kauppalehti, a Finnish business newspaper. An enjoyable side project was participating in a summer innovation competition, which I won with my proposal for developing the way the Bank of Finland and the Financial Supervisory Authority engage with the younger generations.  
+My work mainly consisted of conducting my own research on monetary and macroprudential policy in the presence of a global financial cycle. I also wrote analysis on e.g. the financial stability spillovers from China, prepared briefs for various high-level meeting and participated in seminars and conferences. Two of my analysis were published in the Bank of Finland blog (in Finnish). I was also asked to write a piece on China and financial stability spillovers in Kauppalehti, a Finnish business newspaper. An enjoyable side project was participating in a summer innovation competition, which I won with my proposal for developing the way the Bank of Finland and the Financial Supervisory Authority engage with the younger generations.  
+
+Publications from this visit: two blog posts and a piece in Kauppalehti:
+
+[Norring, Anni (2017). "Makrovakauspolitiikka globaalia finanssisykliä kesyttämässä". A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2017/makrovakauspolitiikka-globaalia-finanssisyklia-kesyttamassa/)
+
+[Norring, Anni (2017). "Debatti: Kiinan markkinahäiriöt voivat heiluttaa maailmanmarkkinoita". Article in Kauppalehti, 28.8.2017.](https://www.kauppalehti.fi/uutiset/debatti-kiinan-markkinahairiotvoivat-heiluttaa-maailmanmarkkinoita/XEu5GsJk)
+
+[Norring, Anni (2017). "Kuinka paljon Kiina vaikuttaa kansainvälisiin rahoitusmarkkinoihin?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2017/kuinka-paljon-kiina-vaikuttaa-kansainvalisiin-rahoitusmarkkinoihin/)
 
 **10/2014 - 2/2016**  
 **Economist, China**  
@@ -186,6 +208,19 @@ Communicating our view on the Chinese economy to the media and other interest gr
 In addition to my responsibilities at BOFIT, I organized two types of seminars. The first one is open to the whole personnel and held on average twice a month. In this series experts at Bank of Finland and Financial Supervision Authority give presentations on interesting and topical themes. The other is a summer seminar open for summer trainees and organized once a week during the summer months.  
 
 I tried to keep my ability to give a presentation about something else than economics alive by occasionally presenting the art collection of the Bank of Finland for different kinds of visitors. When talking about e.g. the Chinese economy, you can up to a degree anticipate the questions asked. With the guided art tours, you have no idea what the visitors may come up with.  
+
+Publications related to this position: 
+
+[Norring, Anni (2016). “Comments by Anni Norring, on The Impact of CEO Long-term Equity-based Compensation Incentives on Economic Growth in Collectivist versus Individualist Countries”. MIT Press Journal Asian Economic Papers, Summer 2016, Vol. 15, No. 2, Pages 134-135.](https://www.mitpressjournals.org/doi/full/10.1162/ASEP_a_00433)
+
+[Rautava, Jouko; Nuutilainen, Riikka; Norring, Anni; Korhonen, Iikka; Kallio, Jyrki (2015). ”BOFIT Kiina-tietoisku 2015”. BOFIT Policy Brief 11/2015](http://urn.fi/URN:NBN:fi:bof-201601071001)
+
+[Norring, Anni (2015). ”Suomen ja Venäjän välisten suorien sijoitusten tilastot”. BOFIT Policy Brief 6/2015.](http://urn.fi/URN:NBN:fi:bof-201506301310)
+
+[Norring, Anni (2015). "Juanin kurssi määräytyy jatkossa enemmän markkinoilla". A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2015-2/juanin-kurssi-maaraytyy-jatkossa-enemman-markkinoilla/)
+
+[Norring, Anni (2015). "Kiinan pörssikurssit menevät ylös ja alas, vaikuttaako se mihinkään?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2015-2/kiinan-porssikurssit-menevat-ylos-ja-alas--vaikuttaako-se-mihinkaan/)
+
 
 **1/2014 - 10/2014**  
 **Economist intern**  
@@ -223,9 +258,13 @@ The most valuable experience from Moskito was the opportunity to gain work exper
 
 [Norring, Anni (2015). ”Suomen ja Venäjän välisten suorien sijoitusten tilastot”. BOFIT Policy Brief 6/2015.](http://urn.fi/URN:NBN:fi:bof-201506301310)
 
+## 5.2 Publications for the general public, such as analyses, articles and blogs
 
+[Kauko, Karlo; Norring, Anni (2018). "Instruments designed to mitigate indebtedness" A Bank of Finland Bulletin article.](https://www.bofbulletin.fi/en/2018/2/instruments-designed-to-mitigate-indebtedness/)
 
-## 5.2 Publications for the general public, such as blogs
+[Kauko, Karlo; Norring, Anni (2018). "Velkaantumista rajoittavat välineet" A Bank of Finland Bulletin article, in Finnish.](https://www.eurojatalous.fi/fi/2018/2/velkaantumista-rajoittavat-valineet/)
+
+[Norring, Anni (2018). "Makrovakauspolitiikka vakiintuu Euroopan unionissa" A Bank of Finland Bulletin analysis article, in Finnish.](https://www.eurojatalous.fi/fi/2018/artikkelit/makrovakauspolitiikka-vakiintuu-euroopan-unionissa/)
 
 [Norring, Anni (2018). "Mistä puhumme, kun puhumme makrovakauspolitiikasta?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2018/mista-puhumme-kun-puhumme-makrovakauspolitiikasta/)
 
@@ -237,7 +276,7 @@ The most valuable experience from Moskito was the opportunity to gain work exper
 
 [Norring, Anni (2015). "Juanin kurssi määräytyy jatkossa enemmän markkinoilla". A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2015-2/juanin-kurssi-maaraytyy-jatkossa-enemman-markkinoilla/)
 
-[Norring, Anni (2017). "Kiinan pörssikurssit menevät ylös ja alas, vaikuttaako se mihinkään?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2015-2/kiinan-porssikurssit-menevat-ylos-ja-alas--vaikuttaako-se-mihinkaan/)
+[Norring, Anni (2015). "Kiinan pörssikurssit menevät ylös ja alas, vaikuttaako se mihinkään?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2015-2/kiinan-porssikurssit-menevat-ylos-ja-alas--vaikuttaako-se-mihinkaan/)
 
 
 ## 5.3 Theses
