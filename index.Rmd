@@ -107,12 +107,14 @@ These results should be in the interest of authorities responsible for macroprud
 
 In this paper I study the spillovers from nationally implemented macroprudential policy measures in the Euro area. Specifically, I analyse whether the use of MPMs is associated with less or more cross-border lending from banks resident in the Euro area to counterparts resident in the Euro area. A negative spillover from the use of MPMs, i.e. less cross-border lending indicates that the use of macroprudential policy measures increases home bias in the Euro area.
 
-In a previous paper I found that the implementation of MPMs is associated with less cross-border lending by banks operating in advanced economies. In this paper I revisit this result in the Euro area, but using a more detailed data set on the use of MPMs. In addition, by restricting the sample to intra-Euro area cross-border lending, the share of zero observations is negligible. Thus, the dependent variable is not limited and there are more options for the used estimation procedure. I use a dynamic gravity model approach, where a gravity equation of financial asset trade applied to international banking is estimated using a panel-var method.
+In a previous paper I found that the implementation of MPMs is associated with less cross-border lending by banks operating in advanced economies. In this paper I revisit this result in the Euro area, but using a more detailed data set, the MaPPED-data, on the use of MPMs. In addition, by restricting the sample to intra-Euro area cross-border lending, the share of zero observations is negligible. Thus, the dependent variable is not limited and there are more options for the used estimation procedure. I use a dynamic gravity model approach, where a gravity equation of financial asset trade applied to international banking is estimated using a panel-var method.
 
 
 ## 3.3 Working paper, the third paper of my PhD thesis: "Regulatory arbitrage in action? Spillovers from macroprudential policy in the major EMEs"
 
+The fifteen largest emerging market economies on average use significantly more macroprudential policy measures than other countries. Moreover, these countries tend to use different MPMs than e.g. advanced economy countries. In a previous paper I found that the implementation of MPMs is associated with more cross-border lending by banks operating in emerging market countries, in contrast to a negative spillover from MPMs for banks operating in advanced market economies. Different opoprtunities for regulatory arbitrage could provide a logical explanation for the different results. 
 
+In this paper I revisit this result and take a closer look at cross-border lending by banks resident in the major EMEs. Here I am able to use a more detailed data on the use of MPMs, taking into account also the changes in intensity of the MPMs. The goal of the paper is to validate the hypothesis on the existence of opportunities for regulatory arbitrage for banks operating in the major EMEs.
 
 
 # 4. Education
