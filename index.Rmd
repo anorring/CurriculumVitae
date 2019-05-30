@@ -61,7 +61,7 @@ I am interested in anything that is hard to understand. I firmly believe there i
 |||
 
 
-# 2. What I do now: International economic policy & PhD thesis
+# 2. What I do now: International economic policy & Research on macroprudential policy spillovers
 
 **1/2019 - **  
 **Economist at the Bank of Finland**
@@ -77,59 +77,26 @@ In my course work I have tried to emphasize maintaining, updating and improving 
 
 I have been a doctoral student representative in the steering committee of the Doctoral Programme in Economics during the academic years 2017-2018 and 2018-2019.
 
-## 2.1 Grants
 
-**3/2018** University of Helsinki travel grant  
-**2/2018** Finnish Cultural Foundation three-year grant  
-**12/2017** Yrj&ouml; Jahnsson Foundation grant (6 months)  
-**6/2017** Oskar &Ouml;flunds Stiftelse grant (4 months)  
-**12/2016** Yrj&ouml; Jahnsson Foundation grant (6 months)  
-**5/2016** Yrj&ouml; Jahnsson Foundation grant for first year doctoral studies (12 months)  
+# 3. Research
 
-## 2.2 Conferences, lectures and teaching  
-
-**5/2019** Presenting "Macroprudential policy spillovers and international banking - Taking the gravity approach", Financial Engineering and Banking Society 9th International Conference, Prague, Czech Republic
-
-**5/2019** Presenting "Macroprudential policy spillovers and international banking - Taking the gravity approach", RiskLab/BoF/ESRB Conference on Systemic Risk Analytics, Helsinki, Finland
-
-**3/2019** Presenting "Macroprudential policy spillovers and international banking - Taking the gravity approach", Bank of Finland internal research seminar, Helsinki, Finland
-
-**3/2019** Teacher, two lectures in a course on the Chinese ecnomy, University of Turku, Finland
-
-**11-12/2018** Teacher (exercises) for master's course "Macroeconomics II: Business cycles"", University of Helsinki, Finland
-
-**9-10/2018** Teacher (exercises) for master's course "Macroeconomics I: Economic growth" , University of Helsinki, Finland
-
-**8/2018** Teacher, lecture course on international macroeconomics, University of Helsinki, Finland
-
-**5/2018** Presenting "Macroprudential policy cross-border spillovers and international banking - Any use for the gravity model?", HECER Research Workshop on Macroeconomics, Helsinki, Finland
-
-**5/2018** Presenting "Macroprudential policy cross-border spillovers and international banking - Any use for the gravity model?", Bank of Finland internal seminar, Helsinki, Finland
-
-**3/2018** Lecture on the Chinese economy, University of the Third Age, Imatra, Finland  
-
-**10-11/2017** Teacher (exercises) for master's course "Macroeconomics II: Business cycles"", University of Helsinki, Finland
-
-**2/2017** Discussant in a session on the Chinese economy, Finnish Economic Association XXXIX Annual Meeting, Jyv&auml;skyl&auml; University, Finland  
-
-
-## 2.3 First paper of the thesis: "Macroprudential policy spillovers and international banking - Taking the gravity approach"
+## 3.1 First paper of the thesis: "Macroprudential policy spillovers and international banking - Taking the gravity approach"
 
 In this paper I study how the effects macroprudential policy spill across borders via international lending. For a set of 157 countries, I estimate a gravity model applied to international banking, where the use of different macroprudential policy measures enter as friction variables. My findings support the existence of cross-border spillovers from macroprudential policy. Moreover, I find that the overall effect from more macroprudential regulation is highly dependent on the income group of the countries in which banks operate: the effect is of opposite sign for advanced and for emerging economies. I argue that the differences may tell of banks having more opportunities for regulatory arbitrage in emerging market economies than in advanced economies.
  
 These results should be in the interest of authorities responsible for macroprudential policy, because the knowledge on the cross-border spillovers from macroprudential policy and how this affects the actions of internationally active banks is still limited. For full understanding of the effectiveness and limitations of macroprudential policy measures the spillover effects should not be ignored. My results point to interesting differences between the potential spillover effects for countries from different income classes, emphasizing the need for a deeper understanding of the channels of effect at play. 
 
-## 2.4 Second paper of the thesis: "Does macroprudential policy increase home bias in the Euro area? A dynamic gravity approach"
+## 3.2 Second paper of the thesis: "Does macroprudential policy increase home bias in the Euro area? A dynamic gravity approach"
 
 
 
-## 2.5 Third paper of the thesis: "Regulatory arbitrage in action? Spillovers from macroprudential policy in the major EMEs"
+## 3.3 Third paper of the thesis: "Regulatory arbitrage in action? Spillovers from macroprudential policy in the major EMEs"
 
 
 
-# 3. Education
+# 4. Education
 
-## 3.1 Doctoral studies
+## 4.1 Doctoral studies
 
 **9/2016 - 5/2020**  
 **Doctor of Social Sciences in Economics**  
@@ -141,7 +108,17 @@ In my course work I have tried to emphasize maintaining, updating and improving 
 
 I have been a doctoral student representative in the steering committee of the Doctoral Programme in Economics during the academic years 2017-2018 and 2018-2019.
 
-## 3.2 Master's and Bachelor's studies
+**Grants**
+
+**3/2018** University of Helsinki travel grant  
+**2/2018** Finnish Cultural Foundation three-year grant  
+**12/2017** Yrj&ouml; Jahnsson Foundation grant (6 months)  
+**6/2017** Oskar &Ouml;flunds Stiftelse grant (4 months)  
+**12/2016** Yrj&ouml; Jahnsson Foundation grant (6 months)  
+**5/2016** Yrj&ouml; Jahnsson Foundation grant for first year doctoral studies (12 months)  
+
+
+## 4.2 Master's and Bachelor's studies
 
 **9/2011 - 1/2015**  
 **Master of Social Sciences in Economics**  
@@ -163,15 +140,15 @@ Major subject mathematics, minor subject economics and statistics. Overall GPA 4
 
 I started as a mathematics student in the University of Helsinki, but my studies centered on economics at a fairly early stage. Studying mathematics has improved my analytic skills, which I have noticed to be endlessly valuable in working life.  
 
-## 3.3 Other education
+## 4.3 Other education
 
 **5/2006**  
 **It&auml;keskus Upper Secondary School, language program.**  
 Matriculation examination in 9 subjects with an overall degree of eximia cum laude approbatur.
 
-# 4. Professional experience
+# 5. Professional experience
 
-## 4.1 Bank of Finland
+## 5.1 Bank of Finland
 
 **1/2019 - **  
 **Economist**
@@ -244,7 +221,7 @@ The most extensive project I did was a methodological project aimed at improving
 
 My other responsibilities included e.g. compiling and publishing the balance of payments statistics and streamlining the process of the monthly online publication. I also had the opportunity to write an article based on my bachelor's thesis and published in the [Financial Market Report of Bank of Finland](http://urn.fi/URN:NBN:fi:bof-201408075204). 
 
-## 4.2 Other
+## 5.2 Other
 
 **10/1998 - 3/2011**  
 **Financial administrative assistant, assistant**  
@@ -256,21 +233,56 @@ I started in the company as a young girl (prior to getting paid for real since I
 The most valuable experience from Moskito was the opportunity to gain work experience at a very young age and the ability to organize my work very independently. 
 
 
-# 5. Publications, writings and media
+# 6. Conference and seminar presentations, lectures and teaching  
 
-## 5.1 Research papers
+## 6.1 Conference and seminar presentations
 
-### 5.1.1 First paper of the thesis: "Macroprudential policy spillovers and international banking - Taking the gravity approach"
+**5/2019** Presenting "Macroprudential policy spillovers and international banking - Taking the gravity approach", Financial Engineering and Banking Society 9th International Conference, Prague, Czech Republic
+
+**5/2019** Discussant in a session on Financial stability, Financial Engineering and Banking Society 9th International Conference, Prague, Czech Republic
+
+**5/2019** Presenting "Macroprudential policy spillovers and international banking - Taking the gravity approach", RiskLab/BoF/ESRB Conference on Systemic Risk Analytics, Helsinki, Finland
+
+**3/2019** Presenting "Macroprudential policy spillovers and international banking - Taking the gravity approach", Bank of Finland internal research seminar, Helsinki, Finland
+
+**5/2018** Presenting "Macroprudential policy cross-border spillovers and international banking - Any use for the gravity model?", HECER Research Workshop on Macroeconomics, Helsinki, Finland
+
+**5/2018** Presenting "Macroprudential policy cross-border spillovers and international banking - Any use for the gravity model?", Bank of Finland internal seminar, Helsinki, Finland
+
+**2/2017** Discussant in a session on the Chinese economy, Finnish Economic Association XXXIX Annual Meeting, Jyv&auml;skyl&auml; University, Finland  
+
+
+## 6.2 Teaching and lectures
+
+**3/2019** Teacher, two lectures in a course on the Chinese economy, University of Turku, Finland
+
+**11-12/2018** Teacher (exercises) for master's course "Macroeconomics II: Business cycles"", University of Helsinki, Finland
+
+**9-10/2018** Teacher (exercises) for master's course "Macroeconomics I: Economic growth" , University of Helsinki, Finland
+
+**8/2018** Teacher, lecture course on international macroeconomics, University of Helsinki, Finland
+
+**3/2018** Lecture on the Chinese economy, University of the Third Age, Imatra, Finland  
+
+**10-11/2017** Teacher (exercises) for master's course "Macroeconomics II: Business cycles"", University of Helsinki, Finland
+
+
+
+# 7. Publications, writings and media
+
+## 7.1 Research papers
+
+### 7.1.1 First paper of the thesis: "Macroprudential policy spillovers and international banking - Taking the gravity approach"
 
 In this paper I study how the effects macroprudential policy spill across borders via international lending. For a set of 157 countries, I estimate a gravity model applied to international banking, where the use of different macroprudential policy measures enter as friction variables. My findings support the existence of cross-border spillovers from macroprudential policy. Moreover, I find that the overall effect from more macroprudential regulation is highly dependent on the income group of the countries in which banks operate: the effect is of opposite sign for advanced and for emerging economies. I argue that the differences may tell of banks having more opportunities for regulatory arbitrage in emerging market economies than in advanced economies.
  
 These results should be in the interest of authorities responsible for macroprudential policy, because the knowledge on the cross-border spillovers from macroprudential policy and how this affects the actions of internationally active banks is still limited. For full understanding of the effectiveness and limitations of macroprudential policy measures the spillover effects should not be ignored. My results point to interesting differences between the potential spillover effects for countries from different income classes, emphasizing the need for a deeper understanding of the channels of effect at play. 
 
-### 5.1.2 Second paper of the thesis: "Does macroprudential policy increase home bias in the Euro area? A dynamic gravity approach"
+### 7.1.2 Second paper of the thesis: "Does macroprudential policy increase home bias in the Euro area? A dynamic gravity approach"
 
-### 5.1.3 Third paper of the thesis: "Regulatory arbitrage in action? Spillovers from macroprudential policy in the major EMEs"
+### 7.1.3 Third paper of the thesis: "Regulatory arbitrage in action? Spillovers from macroprudential policy in the major EMEs"
 
-## 5.2 Publications for professional communities
+## 7.2 Publications for professional communities
 
 [Norring, Anni (2016). “Comments by Anni Norring, on The Impact of CEO Long-term Equity-based Compensation Incentives on Economic Growth in Collectivist versus Individualist Countries”. MIT Press Journal Asian Economic Papers, Summer 2016, Vol. 15, No. 2, Pages 134-135.](https://www.mitpressjournals.org/doi/full/10.1162/ASEP_a_00433)
 
@@ -279,7 +291,7 @@ These results should be in the interest of authorities responsible for macroprud
 [Norring, Anni (2015). ”Suomen ja Venäjän välisten suorien sijoitusten tilastot”. BOFIT Policy Brief 6/2015.](http://urn.fi/URN:NBN:fi:bof-201506301310)
 
 
-## 5.3 Publications for the general public, such as analyses, articles and blogs
+## 7.3 Publications for the general public, such as analyses, articles and blogs
 
 [Kauko, Karlo; Norring, Anni (2018). "Instruments designed to mitigate indebtedness" A Bank of Finland Bulletin article.](https://www.bofbulletin.fi/en/2018/2/instruments-designed-to-mitigate-indebtedness/)
 
@@ -300,22 +312,22 @@ These results should be in the interest of authorities responsible for macroprud
 [Norring, Anni (2015). "Kiinan pörssikurssit menevät ylös ja alas, vaikuttaako se mihinkään?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2015-2/kiinan-porssikurssit-menevat-ylos-ja-alas--vaikuttaako-se-mihinkaan/)
 
 
-## 5.4 Theses
+## 7.4 Theses
 
 [Norring, Anni (2015). ” Cross-border Investments, Gravity Equations and the Double-hurdle Model”. Master’s thesis.](https://helda.helsinki.fi/handle/10138/153567)
 
 Norring, Anni (2011). “Riskirahoituksen merkitys kansantaloudelle”. Bachelor’s thesis. 
 
 
-## 5.5 Media appearances
+## 7.5 Media appearances
 
 ["Kiina devalvoi jo kolmatta päivää - Asiantuntija: Maa hakee uskottavuutta valuutalleen". Interview by Helsingin Sanomat, 13.8.2015.](https://www.hs.fi/talous/art-2000002844710.html)
 
 ["Kiina yllätti devalvaatiolla". Interview by Helsingin Sanomat, 12.8.2015.](https://www.hs.fi/talous/art-2000002844450.html)
 
-# 6. Hobbies
+# 8. Hobbies
 
-##6.1 Reading
+## 8.1 Reading
 I have been devouring books since I was a baby (quite literally, as my mother maintains). The family lore tells that I would not fall asleep without at least four books in my bed and that I learned to read when I was four because my parents simply could not read to me as much as I wanted. To this day, I never leave home without a book. Or two.
 
 When I started school, I was given a notebook where I could write down the books I've read. I’ve managed to keep this habit up, meaning that I have data on my reading for most of my life. According to my notebooks I have read 1410 books so far. These days I read on average 50 books a year. The average has varied quite a lot. When I was in elementery school and reading through the kids' section at the local library in alphabetical order, I managed to go through a 100 books a year (which I considered a cool badge of honour). On the other hand, when I was 13 and decided that from there on, I would only read philosophy "as to educate my thinking" and could understand next to nothing from the various Kants and Wittgensteins, I was down to 20 books a year. That experiment lasted for three years, and I attribute my having any friends at all at school to a very cool and popular sister. 
@@ -323,13 +335,13 @@ When I started school, I was given a notebook where I could write down the books
 These days my reading does not follow a manifesto or a programme. I simply read for pleasure, for learning, for living multiple lives, for visiting places, times and universes beyond my reach.
 
 
-## 6.2 Investing
+## 8.2 Investing
 In 8th grade, I unexpectedly won a competition my school organized on economics. As the first price I received a small share in a mutual fund. That share ended up being one of my worst investments so far: out of pure nostalgia I kept it for 15 years and at last sold for a 8 % profit. I made 3,45€. Luckily, I’ve made also better investments after that.
 
 I like the thrill of catching a bargain and watching it’s value grow. Like the wreckage of an appartment on the far edge of Punavuori I was able to buy when I was 18 years old, which I completely renovated myself using something like 2000 euros and lived in for the years of seriously great afterparties. Since then, the most exclusive neighbourhood in Helsinki has been built right next to my old shady block, I've had only trustworthy tenants and getting a valuation for the place gives me a ridiculous amount of joy.  
 
 It doesn’t have to be only stocks and funds and apartments though. Some of my best investments (in terms of hypothetical profit, to be honest these are things I would not part with) have been art works or furniture. One of my favorites: a very big floor lamp, on its way to the dumpster, which I carried home to my tiny first appartement and which turned out to be a super rare and passionately collected industrial lamp designed by the great Finnish designer Yrjö Kukkapuro.
 
-## 6.3 Ballet
+## 8.3 Ballet
 I’ve danced classical ballet since I was a kid. These days I dance on average six hours a week. Pirouettes are my specialty: I can’t lift my leg past my head or jump very high, but I can spin. Unfortunately, I have no data to back my claim. 
 
