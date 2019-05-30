@@ -86,6 +86,23 @@ In this paper I study how the effects macroprudential policy spill across border
  
 These results should be in the interest of authorities responsible for macroprudential policy, because the knowledge on the cross-border spillovers from macroprudential policy and how this affects the actions of internationally active banks is still limited. For full understanding of the effectiveness and limitations of macroprudential policy measures the spillover effects should not be ignored. My results point to interesting differences between the potential spillover effects for countries from different income classes, emphasizing the need for a deeper understanding of the channels of effect at play. 
 
+Presentations related to this paper:
+
+**6/2019** The 68th Annual Bank Conference on Development Economics, World Bank, Washington D.C., United States
+
+**5/2019** Financial Engineering and Banking Society 9th International Conference, Prague, Czech Republic
+
+**5/2019** RiskLab/BoF/ESRB Conference on Systemic Risk Analytics, Helsinki, Finland
+
+**4/2019** Bank of Finland internal seminar, Helsinki, Finland
+
+**3/2019** Bank of Finland internal research seminar, Helsinki, Finland
+
+**5/2018** HECER Research Workshop on Macroeconomics, Helsinki, Finland
+
+**5/2018** Bank of Finland internal seminar, Helsinki, Finland
+
+
 ## 3.2 Second paper of the thesis: "Does macroprudential policy increase home bias in the Euro area? A dynamic gravity approach"
 
 
@@ -153,11 +170,13 @@ Matriculation examination in 9 subjects with an overall degree of eximia cum lau
 **1/2019 - **  
 **Economist**
 **Bank of Finland, European and International Affairs, General Secretariat**
+
 I work as an economist in the International Affairs division of the Bank of Finland. My responsibilities range from analysing the international economy to formulating Finnish positions in international economic policy. Particularly, in a team of a two economists, I am responsible for Finland's relations to the International Monetary Fund (IMF). In addition, I am responsible for affairs related to the Bank of International Settlements (BIS).
 
 **1/2018 - 3/2018**  
 **Economist**  
 **Bank of Finland, Financial Stability and Statistics, Division of Macroprudential Policy**  
+
 I worked with issues related to macroprudential policy, financial stability and prudential regulation. My work consisted of writing analysis for internal reports and Bank of Finland publications, giving presentations, preparing policy briefs and comments for various high-level meetings and participating in seminars and conferences. I also conducted my own research on the effects of macroprudential instruments on bilateral cross-border bank asset holdings, related to my PhD-thesis. 
 
 Publications from this visit: a blog post, an analysis and an article for the Bank of Finland Bulletin -site:
@@ -173,6 +192,7 @@ Publications from this visit: a blog post, an analysis and an article for the Ba
 **5/2017 - 9/2017**  
 **Economist**  
 **Bank of Finland, Financial Stability and Statistics, Division of Macroprudential Policy**  
+
 My work mainly consisted of conducting my own research on monetary and macroprudential policy in the presence of a global financial cycle. I also wrote analysis on e.g. the financial stability spillovers from China, prepared briefs for various high-level meeting and participated in seminars and conferences. Two of my analysis were published in the Bank of Finland blog (in Finnish). I was also asked to write a piece on China and financial stability spillovers in Kauppalehti, a Finnish business newspaper. An enjoyable side project was participating in a summer innovation competition, which I won with my proposal for developing the way the Bank of Finland and the Financial Supervisory Authority engage with the younger generations.  
 
 Publications from this visit: two blog posts and a piece in Kauppalehti:
@@ -186,6 +206,7 @@ Publications from this visit: two blog posts and a piece in Kauppalehti:
 **10/2014 - 2/2016**  
 **Economist, China**  
 **Bank of Finland Institute for Economies in Transition (BOFIT)**  
+
 I was part of a team of three economists that follows and analyzes the Chinese economy at the Bank of Finland Institute for Economies in Transition or BOFIT. My responsibilities included e.g. writing weekly about the most important economic events in China to the [BOFIT Weekly](https://www.bofit.fi/en/monitoring/weekly/), which contains timely analysis and news about the Russian and Chinese economy. Besides the BOFIT Weekly, I wrote ad-hoc analysis for internal use and for publications such us our [BOFIT Policy Brief -series](https://helda.helsinki.fi/bof/handle/123456789/25/browse?type=author&value=Norring%2C+Anni) and [Bank of Finland blog](https://www.eurojatalous.fi/fi/kirjoittaja/anni-norring/).  
 
 Communicating our view on the Chinese economy to the media and other interest groups as well as networking with other China experts was also an important part of the job, as was taking part in various seminars, conferences and workshops. My work was mainly policy work, but as academic work is also an integral part of BOFIT, I did eg. have the opportunity of being a discussant at Asian Economic Panel 2015 at the Lund University in Sweden. My comments were published in [MIT Press Journal Asian Economic Papers (Summer 2016, Vol. 15, No. 2 , Pages 134-135)](https://www.mitpressjournals.org/doi/full/10.1162/ASEP_a_00433).  
@@ -210,6 +231,7 @@ Publications related to this position:
 **1/2014 - 10/2014**  
 **Economist intern**  
 **Bank of Finland, Financial Stability and Statistics, Division of Statistical analysis**  
+
 My responsibilities included e.g. developing a new compiling process for insurance company and pension fund statistics, and publishing and presenting investment fund statistics. I also mapped and drafted illustrations of all the different work processes of the statistics compiled and published by the statistics department of the Bank of Finland, as this had not been done before.  
 
 During summer 2014 I thought up and organized a seminar for summer trainees, in which economists and other experts of the Bank of Finland gave presentations on different topics related to their field of work. The seminar provided opportunities of discussion on a multitude of subjects and made the functions of the central bank more familiar for the trainees. The seminar was received well by trainees and presenters alike and will in the coming years be included in the schedule of summer trainees.
@@ -217,6 +239,7 @@ During summer 2014 I thought up and organized a seminar for summer trainees, in 
 **4/2011 - 12/2013**  
 **Economist intern**  
 **Bank of Finland, Financial Stability and Statistics, Division of Balance of Payments**  
+
 The most extensive project I did was a methodological project aimed at improving the quality of balance of payments statistics by reducing the balancing item of the statistical framework. On the account of this work I wrote an article ["Maksutaseen tunnistamattomat ja virheelliset erät"](http://urn.fi/URN:NBN:fi:bof-20140807733), which was published in the Bank of Finland BoF Online -series.  
 
 My other responsibilities included e.g. compiling and publishing the balance of payments statistics and streamlining the process of the monthly online publication. I also had the opportunity to write an article based on my bachelor's thesis and published in the [Financial Market Report of Bank of Finland](http://urn.fi/URN:NBN:fi:bof-201408075204). 
@@ -226,6 +249,7 @@ My other responsibilities included e.g. compiling and publishing the balance of 
 **10/1998 - 3/2011**  
 **Financial administrative assistant, assistant**  
 **Moskito Group Oy, previously Varesvuo Partners Oy**  
+
 I gained experience in financial administration at Moskito Group Oy, which is the parent company of a concern consisting of media, advertising and TV-production companies. In Moskito Group I worked for several years as an accounting and office assistant after school and during school holidays.  
 
 I started in the company as a young girl (prior to getting paid for real since I was twelve, I was paid in cute stationary), helping out in the office during school holidays and gaining more responsibility as my experience increased. For the last two years there I was responsible for the management of purchase invoices for almost the entire concern.  
@@ -237,11 +261,15 @@ The most valuable experience from Moskito was the opportunity to gain work exper
 
 ## 6.1 Conference and seminar presentations
 
+**6/2019** Presenting "Macroprudential policy spillovers and international banking - Taking the gravity approach", The 68th Annual Bank Conference on Development Economics, World Bank, Washington D.C., United States
+
 **5/2019** Presenting "Macroprudential policy spillovers and international banking - Taking the gravity approach", Financial Engineering and Banking Society 9th International Conference, Prague, Czech Republic
 
 **5/2019** Discussant in a session on Financial stability, Financial Engineering and Banking Society 9th International Conference, Prague, Czech Republic
 
 **5/2019** Presenting "Macroprudential policy spillovers and international banking - Taking the gravity approach", RiskLab/BoF/ESRB Conference on Systemic Risk Analytics, Helsinki, Finland
+
+**4/2019** Presenting "Makrovakauspolitiikan läikkyminen ulkomaisen luotonannon kautta - Uutta dataa, uusia tuloksia, uusia ajatuksia", Bank of Finland internal seminar, Helsinki, Finland
 
 **3/2019** Presenting "Macroprudential policy spillovers and international banking - Taking the gravity approach", Bank of Finland internal research seminar, Helsinki, Finland
 
@@ -253,6 +281,8 @@ The most valuable experience from Moskito was the opportunity to gain work exper
 
 
 ## 6.2 Teaching and lectures
+
+**8/2019** Teacher, lecture course on international macroeconomics, University of Helsinki, Finland
 
 **3/2019** Teacher, two lectures in a course on the Chinese economy, University of Turku, Finland
 
