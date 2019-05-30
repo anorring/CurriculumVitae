@@ -80,13 +80,13 @@ I have been a doctoral student representative in the steering committee of the D
 
 # 3. Research
 
-## 3.1 First paper of the thesis: "Macroprudential policy spillovers and international banking - Taking the gravity approach"
+## 3.1 Working paper, the first paper of my PhD thesis: "Macroprudential policy spillovers and international banking - Taking the gravity approach"
 
 In this paper I study how the effects macroprudential policy spill across borders via international lending. For a set of 157 countries, I estimate a gravity model applied to international banking, where the use of different macroprudential policy measures enter as friction variables. My findings support the existence of cross-border spillovers from macroprudential policy. Moreover, I find that the overall effect from more macroprudential regulation is highly dependent on the income group of the countries in which banks operate: the effect is of opposite sign for advanced and for emerging economies. I argue that the differences may tell of banks having more opportunities for regulatory arbitrage in emerging market economies than in advanced economies.
  
 These results should be in the interest of authorities responsible for macroprudential policy, because the knowledge on the cross-border spillovers from macroprudential policy and how this affects the actions of internationally active banks is still limited. For full understanding of the effectiveness and limitations of macroprudential policy measures the spillover effects should not be ignored. My results point to interesting differences between the potential spillover effects for countries from different income classes, emphasizing the need for a deeper understanding of the channels of effect at play. 
 
-Presentations related to this paper:
+**Presentations related to this paper:**
 
 **6/2019** The 68th Annual Bank Conference on Development Economics, World Bank, Washington D.C., United States
 
@@ -103,11 +103,15 @@ Presentations related to this paper:
 **5/2018** Bank of Finland internal seminar, Helsinki, Finland
 
 
-## 3.2 Second paper of the thesis: "Does macroprudential policy increase home bias in the Euro area? A dynamic gravity approach"
+## 3.2 Working paper, the second paper of my PhD thesis: "Does macroprudential policy increase home bias in the Euro area? A dynamic gravity approach"
+
+In this paper I study the spillovers from nationally implemented macroprudential policy measures in the Euro area. Specifically, I analyse whether the use of MPMs is associated with less or more cross-border lending from banks resident in the Euro area to counterparts resident in the Euro area. A negative spillover from the use of MPMs, i.e. less cross-border lending indicates that the use of macroprudential policy measures increases home bias in the Euro area.
+
+In a previous paper I found that the implementation of MPMs is associated with less cross-border lending by banks operating in advanced economies. In this paper I revisit this result in the Euro area, but using a more detailed data set on the use of MPMs. In addition, by restricting the sample to intra-Euro area cross-border lending, the share of zero observations is negligible. Thus, the dependent variable is not limited and there are more options for the used estimation procedure. I use a dynamic gravity model approach, where a gravity equation of financial asset trade applied to international banking is estimated using a panel-var method.
 
 
+## 3.3 Working paper, the third paper of my PhD thesis: "Regulatory arbitrage in action? Spillovers from macroprudential policy in the major EMEs"
 
-## 3.3 Third paper of the thesis: "Regulatory arbitrage in action? Spillovers from macroprudential policy in the major EMEs"
 
 
 
