@@ -67,13 +67,14 @@ I am interested in anything that is hard to understand. I firmly believe there i
 **Economist at the Bank of Finland**
 I work as an economist in the International Affairs division of the Bank of Finland in a team of two economists. My main responsibilities are related to the International Monetary Fund (IMF). I prepare and coordinate Finnish positions regarding international economic policy in cooperation with the Nordic-Baltic Constituency of IMF. In addition, my work ranges from following and analysing the global economy, international financial markets and international economic policy discussions to communicating topical international themes to the wider public and representing the Bank of Finland in various international meetings. Finally, I am responsible for affairs related to the Bank of International Settlements (BIS).
 
-**Publications:**
-[Norring, Anni (2019). "Kädet dataan - uutta tietoa makrovakausvälineiden käytöstä eri maissa" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2019/kadet-dataan-uutta-tietoa-makrovakausvalineiden-kaytosta-eri-maissa/)
+Publications related to this position:
 
 [Norring, Anni (2019). "Kuinka huolissaan multilateralismin tulevaisuudesta on syytä olla?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2019/kuinka-huolissaan-multilateralismin-tulevaisuudesta-on-syyta-olla/)
 
-**Media appearances:**
+[Norring, Anni (2019). "Kädet dataan - uutta tietoa makrovakausvälineiden käytöstä eri maissa" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2019/kadet-dataan-uutta-tietoa-makrovakausvalineiden-kaytosta-eri-maissa/)
 
+Media appearances:
+[Guest on YLE Puhe Politiikkaradio (27.8.2019): "Uhkaavatko kauppasodat kaataa vapaakaupan?" (in Finnish)](https://areena.yle.fi/1-50249379)
 
 **9/2016 - 5/2021 (estimated)**  
 **Doctor of Social Sciences in Economics**  
@@ -81,11 +82,20 @@ University of Helsinki, Faculty of Social Sciences
 
 In my thesis I apply the gravity model to international banking and specifically to studying the cross-border spillover effects of nationally implemented macroprudential policy via international lending. 
 
-I have presented my first paper, "Macroprudential policy spillovers and international banking - Taking the gravity approach", in e.g. the [68th ABCDE-conference at the World Bank in June 2019](https://www.worldbank.org/en/events/2018/10/23/annual-bank-conference-on-development-economics-2019-multilateralism-past-present-and-future). This paper will shortly be circulated as No. x in [The ESRB Working Paper Series](https://www.esrb.europa.eu/pub/series/working-papers/html/index.en.html).
+I have presented my first paper, "Macroprudential policy spillovers and international banking - Taking the gravity approach", in e.g. the [68th ABCDE-conference at the World Bank in June 2019](https://www.worldbank.org/en/events/2018/10/23/annual-bank-conference-on-development-economics-2019-multilateralism-past-present-and-future). This paper will be circulated as No. x in [The ESRB Working Paper Series](https://www.esrb.europa.eu/pub/series/working-papers/html/index.en.html) in mid-September.
 
 In my course work I have tried to emphasize maintaining, updating and improving my methodological know-how. I have taken courses on e.g. open data science (R, open data sources, Git), DSGE models, Bayesian times series methods, different classes of VARs and Bayesian methods for DSGE models. 
 
 I have been a doctoral student representative in the steering committee of the Doctoral Programme in Economics during the academic years 2017-2018 and 2018-2019.
+
+**Grants**
+
+**3/2018** University of Helsinki travel grant  
+**2/2018** Finnish Cultural Foundation three-year research grant  
+**12/2017** Yrj&ouml; Jahnsson Foundation grant (6 months)  
+**6/2017** Oskar &Ouml;flunds Stiftelse grant (4 months)  
+**12/2016** Yrj&ouml; Jahnsson Foundation grant (6 months)  
+**5/2016** Yrj&ouml; Jahnsson Foundation grant for first year doctoral studies (12 months)  
 
 
 # 3. Research
@@ -98,7 +108,9 @@ These results should be in the interest of authorities responsible for macroprud
 
 **Presentations related to this paper:**
 
-**6/2019** The 68th Annual Bank Conference on Development Economics, World Bank, Washington D.C., United States
+**10/2019** Joint ECB & Banca d'Italia research workshop “Macroprudential policy: effectiveness, interactions and spillovers”, Rome, Italy
+
+**6/2019** The 68th Annual Bank Conference on Development Economics "Multilateralism: Past, Present, and Future", World Bank, Washington D.C., United States
 
 **5/2019** Financial Engineering and Banking Society 9th International Conference, Prague, Czech Republic
 
@@ -112,23 +124,27 @@ These results should be in the interest of authorities responsible for macroprud
 
 **5/2018** Bank of Finland internal seminar, Helsinki, Finland
 
+
 **Circulated as:**
 
 **9/2019** No. x in [The ESRB Working Paper Series](https://www.esrb.europa.eu/pub/series/working-papers/html/index.en.html) (forthcoming)
 
 
-## 3.2 Working paper, the second paper of my PhD thesis: "Does macroprudential policy increase home bias in the Euro area? A dynamic gravity approach"
-
-In this paper I study the spillovers from nationally implemented macroprudential policy measures in the Euro area. Specifically, I analyse whether the use of MPMs is associated with less or more cross-border lending from banks resident in the Euro area to counterparts resident in the Euro area. A negative spillover from the use of MPMs, i.e. less cross-border lending indicates that the use of macroprudential policy measures increases home bias in the Euro area.
-
-In a previous paper I found that the implementation of MPMs is associated with less cross-border lending by banks operating in advanced economies. In this paper I revisit this result in the Euro area, but using a more detailed data set, the MaPPED-data, on the use of MPMs. In addition, by restricting the sample to intra-Euro area cross-border lending, the share of zero observations is negligible. Thus, the dependent variable is not limited and there are more options for the used estimation procedure. I use a dynamic gravity model approach, where a gravity equation of financial asset trade applied to international banking is estimated using a panel-var method.
-
-
-## 3.3 Working paper, the third paper of my PhD thesis: "Regulatory arbitrage in action? Spillovers from macroprudential policy in the major EMEs"
+## 3.2 Working paper, the second paper of my PhD thesis: "Regulatory arbitrage in action? Spillovers from macroprudential policy in the major EMEs"
 
 The fifteen largest emerging market economies on average use significantly more macroprudential policy measures than other countries. Moreover, these countries tend to use different MPMs than e.g. advanced economy countries. In a previous paper I found that the implementation of MPMs is associated with more cross-border lending by banks operating in emerging market countries, in contrast to a negative spillover from MPMs for banks operating in advanced market economies. Different opoprtunities for regulatory arbitrage could provide a logical explanation for the different results. 
 
 In this paper I revisit this result and take a closer look at cross-border lending by banks resident in the major EMEs. Here I am able to use a more detailed data on the use of MPMs, taking into account also the changes in intensity of the MPMs. The goal of the paper is to validate the hypothesis on the existence of opportunities for regulatory arbitrage for banks operating in the major EMEs.
+
+**Presentations related to this paper:**
+
+**10/2019** Joint ECB & Banca d'Italia research workshop “Macroprudential policy: effectiveness, interactions and spillovers”, Rome, Italy
+
+## 3.3 Working paper, the third paper of my PhD thesis: "Does macroprudential policy increase home bias in the Euro area? A dynamic gravity approach"
+
+In this paper I study the spillovers from nationally implemented macroprudential policy measures in the Euro area. Specifically, I analyse whether the use of MPMs is associated with less or more cross-border lending from banks resident in the Euro area to counterparts resident in the Euro area. A negative spillover from the use of MPMs, i.e. less cross-border lending indicates that the use of macroprudential policy measures increases home bias in the Euro area.
+
+In a previous paper I found that the implementation of MPMs is associated with less cross-border lending by banks operating in advanced economies. In this paper I revisit this result in the Euro area, but using a more detailed data set, the MaPPED-data, on the use of MPMs. In addition, by restricting the sample to intra-Euro area cross-border lending, the share of zero observations is negligible. Thus, the dependent variable is not limited and there are more options for the used estimation procedure. I use a dynamic gravity model approach, where a gravity equation of financial asset trade applied to international banking is estimated using a panel-var method.
 
 
 # 4. Education
@@ -139,7 +155,9 @@ In this paper I revisit this result and take a closer look at cross-border lendi
 **Doctor of Social Sciences in Economics**  
 University of Helsinki, Faculty of Social Sciences  
 
-In my thesis I apply the gravity model to international banking and specifically to studying the cross-border spillover effects of nationally implemented macroprudential policy via international lending.
+In my thesis I apply the gravity model to international banking and specifically to studying the cross-border spillover effects of nationally implemented macroprudential policy via international lending. 
+
+I have presented my first paper, "Macroprudential policy spillovers and international banking - Taking the gravity approach", in e.g. the [68th ABCDE-conference at the World Bank in June 2019](https://www.worldbank.org/en/events/2018/10/23/annual-bank-conference-on-development-economics-2019-multilateralism-past-present-and-future). This paper will be circulated as No. x in [The ESRB Working Paper Series](https://www.esrb.europa.eu/pub/series/working-papers/html/index.en.html) in mid-September.
 
 In my course work I have tried to emphasize maintaining, updating and improving my methodological know-how. I have taken courses on e.g. open data science (R, open data sources, Git), DSGE models, Bayesian times series methods, different classes of VARs and Bayesian methods for DSGE models. 
 
@@ -148,7 +166,7 @@ I have been a doctoral student representative in the steering committee of the D
 **Grants**
 
 **3/2018** University of Helsinki travel grant  
-**2/2018** Finnish Cultural Foundation three-year grant  
+**2/2018** Finnish Cultural Foundation three-year research grant  
 **12/2017** Yrj&ouml; Jahnsson Foundation grant (6 months)  
 **6/2017** Oskar &Ouml;flunds Stiftelse grant (4 months)  
 **12/2016** Yrj&ouml; Jahnsson Foundation grant (6 months)  
@@ -191,7 +209,15 @@ Matriculation examination in 9 subjects with an overall degree of eximia cum lau
 **Economist**
 **Bank of Finland, European and International Affairs, General Secretariat**
 
-I work as an economist in the International Affairs division of the Bank of Finland. My responsibilities range from analysing the international economy to formulating Finnish positions in international economic policy. Particularly, in a team of a two economists, I am responsible for Finland's relations to the International Monetary Fund (IMF). In addition, I am responsible for affairs related to the Bank of International Settlements (BIS).
+I work as an economist in the International Affairs division of the Bank of Finland in a team of two economists. My main responsibilities are related to the International Monetary Fund (IMF). I prepare and coordinate Finnish positions regarding international economic policy in cooperation with the Nordic-Baltic Constituency of IMF. In addition, my work ranges from following and analysing the global economy, international financial markets and international economic policy discussions to communicating topical international themes to the wider public and representing the Bank of Finland in various international meetings. Finally, I am responsible for affairs related to the Bank of International Settlements (BIS).
+
+Publications:
+[Norring, Anni (2019). "Kädet dataan - uutta tietoa makrovakausvälineiden käytöstä eri maissa" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2019/kadet-dataan-uutta-tietoa-makrovakausvalineiden-kaytosta-eri-maissa/)
+
+[Norring, Anni (2019). "Kuinka huolissaan multilateralismin tulevaisuudesta on syytä olla?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2019/kuinka-huolissaan-multilateralismin-tulevaisuudesta-on-syyta-olla/)
+
+Media appearances:
+[Guest on YLE Puhe Politiikkaradio (27.8.2019): "Uhkaavatko kauppasodat kaataa vapaakaupan?" (in Finnish)](https://areena.yle.fi/1-50249379)
 
 **1/2018 - 3/2018**  
 **Economist**  
@@ -219,7 +245,7 @@ Publications from this visit: two blog posts and a piece in Kauppalehti:
 
 [Norring, Anni (2017). "Makrovakauspolitiikka globaalia finanssisykliä kesyttämässä". A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2017/makrovakauspolitiikka-globaalia-finanssisyklia-kesyttamassa/)
 
-[Norring, Anni (2017). "Debatti: Kiinan markkinahäiriöt voivat heiluttaa maailmanmarkkinoita". Article in Kauppalehti, 28.8.2017.](https://www.kauppalehti.fi/uutiset/debatti-kiinan-markkinahairiotvoivat-heiluttaa-maailmanmarkkinoita/XEu5GsJk)
+[Norring, Anni (2017). "Debatti: Kiinan markkinahäiriöt voivat heiluttaa maailmanmarkkinoita". Article in Kauppalehti, 28.8.2017, in Finnish.](https://www.kauppalehti.fi/uutiset/debatti-kiinan-markkinahairiotvoivat-heiluttaa-maailmanmarkkinoita/XEu5GsJk)
 
 [Norring, Anni (2017). "Kuinka paljon Kiina vaikuttaa kansainvälisiin rahoitusmarkkinoihin?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2017/kuinka-paljon-kiina-vaikuttaa-kansainvalisiin-rahoitusmarkkinoihin/)
 
@@ -266,6 +292,22 @@ My other responsibilities included e.g. compiling and publishing the balance of 
 
 ## 5.2 Other
 
+**Teaching**
+**8/2019** Teacher, lecture course on international macroeconomics, University of Helsinki, Finland
+
+**3/2019** Teacher, two lectures in a course on the Chinese economy, University of Turku, Finland
+
+**11-12/2018** Teacher, exercises and assisting lecturer professor Antti Ripatti for master's course "Macroeconomics II: Business cycles"", University of Helsinki, Finland
+
+**9-10/2018** Teacher, exercises and assisting lecturer Meri Obstbaum for master's course "Macroeconomics I: Economic growth" , University of Helsinki, Finland
+
+**8/2018** Teacher, lecture course on international macroeconomics, University of Helsinki, Finland
+
+**3/2018** Lecture on the Chinese economy, University of the Third Age, Imatra, Finland  
+
+**10-11/2017** Teacher, exercises and assisting lecturer professor Antti Ripatti for master's course "Macroeconomics II: Business cycles"", University of Helsinki, Finland
+
+
 **10/1998 - 3/2011**  
 **Financial administrative assistant, assistant**  
 **Moskito Group Oy, previously Varesvuo Partners Oy**  
@@ -280,6 +322,8 @@ The most valuable experience from Moskito was the opportunity to gain work exper
 # 6. Conference and seminar presentations, lectures and teaching  
 
 ## 6.1 Conference and seminar presentations
+
+**10/2019** Presenting "Macroprudential policy spillovers and international banking - Taking the gravity approach" and new results related to "Regulatory arbitrage in action? Spillovers from macroprudential policy in the major EMEs", Joint ECB & Banca d'Italia research workshop “Macroprudential policy: effectiveness, interactions and spillovers”, Rome, Italy
 
 **6/2019** Presenting "Macroprudential policy spillovers and international banking - Taking the gravity approach", The 68th Annual Bank Conference on Development Economics, World Bank, Washington D.C., United States
 
@@ -306,15 +350,15 @@ The most valuable experience from Moskito was the opportunity to gain work exper
 
 **3/2019** Teacher, two lectures in a course on the Chinese economy, University of Turku, Finland
 
-**11-12/2018** Teacher (exercises) for master's course "Macroeconomics II: Business cycles"", University of Helsinki, Finland
+**11-12/2018** Teacher, exercises and assisting lecturer professor Antti Ripatti for master's course "Macroeconomics II: Business cycles"", University of Helsinki, Finland
 
-**9-10/2018** Teacher (exercises) for master's course "Macroeconomics I: Economic growth" , University of Helsinki, Finland
+**9-10/2018** Teacher, exercises and assisting lecturer Meri Obstbaum for master's course "Macroeconomics I: Economic growth" , University of Helsinki, Finland
 
 **8/2018** Teacher, lecture course on international macroeconomics, University of Helsinki, Finland
 
 **3/2018** Lecture on the Chinese economy, University of the Third Age, Imatra, Finland  
 
-**10-11/2017** Teacher (exercises) for master's course "Macroeconomics II: Business cycles"", University of Helsinki, Finland
+**10-11/2017** Teacher, exercises and assisting lecturer professor Antti Ripatti for master's course "Macroeconomics II: Business cycles"", University of Helsinki, Finland
 
 
 
@@ -322,15 +366,52 @@ The most valuable experience from Moskito was the opportunity to gain work exper
 
 ## 7.1 Research papers
 
+[Norring, Anni (2019). "Macroprudential policy spillovers and international banking - Taking the gravity approach". No. xx in the ESRB Working Paper Series (forthcoming in mid-September)](https://www.esrb.europa.eu/pub/series/working-papers/html/index.en.html)
+
 ### 7.1.1 First paper of the thesis: "Macroprudential policy spillovers and international banking - Taking the gravity approach"
 
 In this paper I study how the effects macroprudential policy spill across borders via international lending. For a set of 157 countries, I estimate a gravity model applied to international banking, where the use of different macroprudential policy measures enter as friction variables. My findings support the existence of cross-border spillovers from macroprudential policy. Moreover, I find that the overall effect from more macroprudential regulation is highly dependent on the income group of the countries in which banks operate: the effect is of opposite sign for advanced and for emerging economies. I argue that the differences may tell of banks having more opportunities for regulatory arbitrage in emerging market economies than in advanced economies.
  
 These results should be in the interest of authorities responsible for macroprudential policy, because the knowledge on the cross-border spillovers from macroprudential policy and how this affects the actions of internationally active banks is still limited. For full understanding of the effectiveness and limitations of macroprudential policy measures the spillover effects should not be ignored. My results point to interesting differences between the potential spillover effects for countries from different income classes, emphasizing the need for a deeper understanding of the channels of effect at play. 
 
-### 7.1.2 Second paper of the thesis: "Does macroprudential policy increase home bias in the Euro area? A dynamic gravity approach"
+**Presentations related to this paper:**
 
-### 7.1.3 Third paper of the thesis: "Regulatory arbitrage in action? Spillovers from macroprudential policy in the major EMEs"
+**10/2019** Joint ECB & Banca d'Italia research workshop “Macroprudential policy: effectiveness, interactions and spillovers”, Rome, Italy
+
+**6/2019** The 68th Annual Bank Conference on Development Economics "Multilateralism: Past, Present, and Future", World Bank, Washington D.C., United States
+
+**5/2019** Financial Engineering and Banking Society 9th International Conference, Prague, Czech Republic
+
+**5/2019** RiskLab/BoF/ESRB Conference on Systemic Risk Analytics, Helsinki, Finland
+
+**4/2019** Bank of Finland internal seminar, Helsinki, Finland
+
+**3/2019** Bank of Finland internal research seminar, Helsinki, Finland
+
+**5/2018** HECER Research Workshop on Macroeconomics, Helsinki, Finland
+
+**5/2018** Bank of Finland internal seminar, Helsinki, Finland
+
+
+**Circulated as:**
+
+**9/2019** No. x in [The ESRB Working Paper Series](https://www.esrb.europa.eu/pub/series/working-papers/html/index.en.html) (forthcoming)
+
+### 7.1.2 Second paper of the thesis: "Regulatory arbitrage in action? Spillovers from macroprudential policy in the major EMEs"
+
+The fifteen largest emerging market economies on average use significantly more macroprudential policy measures than other countries. Moreover, these countries tend to use different MPMs than e.g. advanced economy countries. In a previous paper I found that the implementation of MPMs is associated with more cross-border lending by banks operating in emerging market countries, in contrast to a negative spillover from MPMs for banks operating in advanced market economies. Different opoprtunities for regulatory arbitrage could provide a logical explanation for the different results. 
+
+In this paper I revisit this result and take a closer look at cross-border lending by banks resident in the major EMEs. Here I am able to use a more detailed data on the use of MPMs, taking into account also the changes in intensity of the MPMs. The goal of the paper is to validate the hypothesis on the existence of opportunities for regulatory arbitrage for banks operating in the major EMEs.
+
+**Presentations related to this paper:**
+
+**10/2019** Joint ECB & Banca d'Italia research workshop “Macroprudential policy: effectiveness, interactions and spillovers”, Rome, Italy
+
+### 7.1.3 Third paper of the thesis: "Does macroprudential policy increase home bias in the Euro area? A dynamic gravity approach"
+
+In this paper I study the spillovers from nationally implemented macroprudential policy measures in the Euro area. Specifically, I analyse whether the use of MPMs is associated with less or more cross-border lending from banks resident in the Euro area to counterparts resident in the Euro area. A negative spillover from the use of MPMs, i.e. less cross-border lending indicates that the use of macroprudential policy measures increases home bias in the Euro area.
+
+In a previous paper I found that the implementation of MPMs is associated with less cross-border lending by banks operating in advanced economies. In this paper I revisit this result in the Euro area, but using a more detailed data set, the MaPPED-data, on the use of MPMs. In addition, by restricting the sample to intra-Euro area cross-border lending, the share of zero observations is negligible. Thus, the dependent variable is not limited and there are more options for the used estimation procedure. I use a dynamic gravity model approach, where a gravity equation of financial asset trade applied to international banking is estimated using a panel-var method.
 
 ## 7.2 Publications for professional communities
 
@@ -342,6 +423,10 @@ These results should be in the interest of authorities responsible for macroprud
 
 
 ## 7.3 Publications for the general public, such as analyses, articles and blogs
+
+[Norring, Anni (2019). "Kuinka huolissaan multilateralismin tulevaisuudesta on syytä olla?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2019/kuinka-huolissaan-multilateralismin-tulevaisuudesta-on-syyta-olla/)
+
+[Norring, Anni (2019). "Kädet dataan - uutta tietoa makrovakausvälineiden käytöstä eri maissa" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2019/kadet-dataan-uutta-tietoa-makrovakausvalineiden-kaytosta-eri-maissa/)
 
 [Kauko, Karlo; Norring, Anni (2018). "Instruments designed to mitigate indebtedness" A Bank of Finland Bulletin article.](https://www.bofbulletin.fi/en/2018/2/instruments-designed-to-mitigate-indebtedness/)
 
@@ -374,6 +459,8 @@ Norring, Anni (2011). “Riskirahoituksen merkitys kansantaloudelle”. Bachelor
 ["Kiina devalvoi jo kolmatta päivää - Asiantuntija: Maa hakee uskottavuutta valuutalleen". Interview by Helsingin Sanomat, 13.8.2015.](https://www.hs.fi/talous/art-2000002844710.html)
 
 ["Kiina yllätti devalvaatiolla". Interview by Helsingin Sanomat, 12.8.2015.](https://www.hs.fi/talous/art-2000002844450.html)
+
+[Guest on YLE Puhe Politiikkaradio (27.8.2019): "Uhkaavatko kauppasodat kaataa vapaakaupan?" (in Finnish)](https://areena.yle.fi/1-50249379)
 
 # 8. Hobbies
 
