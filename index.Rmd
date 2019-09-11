@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # 1. General information
 
-I am currently an economist at the Bank of Finland and a PhD candidate in economics at the University of Helsinki. Ten years from now I will be a PhD in economics specialized in international macroeconomics with solid understanding of how economies work gained from working with a central bank or an international organization.
+I am currently an economist at the Bank of Finland and a PhD candidate in economics at the University of Helsinki. Five years from now I will do what I do now - only better.
 
 I am interested in anything that is hard to understand. I firmly believe there is nothing more exciting than learning something new, be it in the field of economics, programming, dancing ballet or renovating. I like to learn new things by reading, listening and trying out: I am never caught without a book (or two) in my bag, I try to keep my language skills up by listening to i.e. a french science podcast while walking to work and I never say no, when something interesting comes my way.
 
