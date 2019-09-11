@@ -56,8 +56,8 @@ I am interested in anything that is hard to understand. I firmly believe there i
 
 |Technical skills|
 |------------------------|------------------------------------------------------------------------------------|
-|Proficient with|Microsoft Office suite, R, Stata, Git, Lateχ, Matlab, Dynare, Macrobond, CEIC|
-|Basic knowledge of|Tableau, IRIS, Python, Bloomberg, SPSS|
+|Proficient with|Microsoft Office suite, R, Stata, Git, Lateχ, Matlab, Macrobond, CEIC|
+|Basic knowledge of|Tableau, Dynare, IRIS, Python, Bloomberg, SPSS|
 |||
 
 
@@ -65,13 +65,23 @@ I am interested in anything that is hard to understand. I firmly believe there i
 
 **1/2019 - **  
 **Economist at the Bank of Finland**
-I work as an economist in the International Affairs division of the Bank of Finland. My responsibilities range from analysing the international economy to formulating Finnish positions in international economic policy. Particularly, in a team of a two economists, I am responsible for Finland's relations to the International Monetary Fund (IMF). In addition, I am responsible for affairs related to the Bank of International Settlements (BIS).
+I work as an economist in the International Affairs division of the Bank of Finland in a team of two economists. My main responsibilities are related to the International Monetary Fund (IMF). I prepare and coordinate Finnish positions regarding international economic policy in cooperation with the Nordic-Baltic Constituency of IMF. In addition, my work ranges from following and analysing the global economy, international financial markets and international economic policy discussions to communicating topical international themes to the wider public and representing the Bank of Finland in various international meetings. Finally, I am responsible for affairs related to the Bank of International Settlements (BIS).
 
-**9/2016 - 5/2020**  
+**Publications:**
+[Norring, Anni (2019). "Kädet dataan - uutta tietoa makrovakausvälineiden käytöstä eri maissa" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2019/kadet-dataan-uutta-tietoa-makrovakausvalineiden-kaytosta-eri-maissa/)
+
+[Norring, Anni (2019). "Kuinka huolissaan multilateralismin tulevaisuudesta on syytä olla?" A Bank of Finland Bulletin blog, in Finnish.](https://www.eurojatalous.fi/fi/blogit/2019/kuinka-huolissaan-multilateralismin-tulevaisuudesta-on-syyta-olla/)
+
+**Media appearances:**
+
+
+**9/2016 - 5/2021 (estimated)**  
 **Doctor of Social Sciences in Economics**  
 University of Helsinki, Faculty of Social Sciences  
 
-In my thesis I apply the gravity model to international banking and specifically to studying the cross-border spillover effects of nationally implemented macroprudential policy via international lending.
+In my thesis I apply the gravity model to international banking and specifically to studying the cross-border spillover effects of nationally implemented macroprudential policy via international lending. 
+
+I have presented my first paper, "Macroprudential policy spillovers and international banking - Taking the gravity approach", in e.g. the [68th ABCDE-conference at the World Bank in June 2019](https://www.worldbank.org/en/events/2018/10/23/annual-bank-conference-on-development-economics-2019-multilateralism-past-present-and-future). This paper will shortly be circulated as No. x in [The ESRB Working Paper Series](https://www.esrb.europa.eu/pub/series/working-papers/html/index.en.html).
 
 In my course work I have tried to emphasize maintaining, updating and improving my methodological know-how. I have taken courses on e.g. open data science (R, open data sources, Git), DSGE models, Bayesian times series methods, different classes of VARs and Bayesian methods for DSGE models. 
 
@@ -101,6 +111,10 @@ These results should be in the interest of authorities responsible for macroprud
 **5/2018** HECER Research Workshop on Macroeconomics, Helsinki, Finland
 
 **5/2018** Bank of Finland internal seminar, Helsinki, Finland
+
+**Circulated as:**
+
+**9/2019** No. x in [The ESRB Working Paper Series](https://www.esrb.europa.eu/pub/series/working-papers/html/index.en.html) (forthcoming)
 
 
 ## 3.2 Working paper, the second paper of my PhD thesis: "Does macroprudential policy increase home bias in the Euro area? A dynamic gravity approach"
